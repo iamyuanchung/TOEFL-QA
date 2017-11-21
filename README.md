@@ -10,7 +10,7 @@ If you use the dataset or the code in your work, please cite the following two p
 ```
 @inproceedings{tseng2016towards,
   title     = {Towards machine comprehension of spoken content: Initial TOEFL listening comprehension test by machine},
-  author    = {Tseng, Bo-Hsiang and Shen, Sheng-syun and Lee, Hung-Yi and Lee, Lin-Shan},
+  author    = {Tseng, Bo-Hsiang and Shen, Sheng-Syun and Lee, Hung-Yi and Lee, Lin-Shan},
   booktitle = {INTERSPEECH},
   year      = {2016}
 }
