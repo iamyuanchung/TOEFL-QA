@@ -9,11 +9,10 @@ Authors: [Yu-An Chung](http://people.csail.mit.edu/andyyuan/)
 If you use the dataset or the code in your work, please cite the following two papers:
 ```
 @inproceedings{tseng2016towards,
-  title     = {Towards machine comprehension of spoken content: Initial {TOEFL} listening comprehension test by machine},
+  title     = {Towards machine comprehension of spoken content: Initial TOEFL listening comprehension test by machine},
   author    = {Tseng, Bo-Hsiang and Shen, Sheng-syun and Lee, Hung-Yi and Lee, Lin-Shan},
   booktitle = {INTERSPEECH},
   year      = {2016}
-}
 }
 ```
 and
