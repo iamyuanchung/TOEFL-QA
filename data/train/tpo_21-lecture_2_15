@@ -1,0 +1,51 @@
+SENTENCE we've been talking about the software development cycle ,  and today i'd like to move on to the next stage of that cycle testing ,  and why finding bugs during testing is actually a great thing .
+SENTENCE eh  eh   the quality of the software product often relies heavily on how well it's been tested .
+SENTENCE liz ?
+SENTENCE um   just a quick thing .
+SENTENCE bugs is the word for problems in the program code ,  right ?
+SENTENCE yeah ,  in code or in a computer itself .
+SENTENCE there is a bit of a story behind that term .
+SENTENCE um   back in the 194's ,  when the computer industry was just starting ,  a group of computer scientists was working late one night ,  and there was a problem in one of the computers  circuits1 .
+SENTENCE when they examined it ,  they found a five centimeter long moth caught in there .
+SENTENCE once they debugged the computer ,  it worked just fine .
+SENTENCE and ever since then ,  all kinds of computer problems have been known as bugs .
+SENTENCE anyway ,  you want to find bugs while the software is still in the development and testing phases .
+SENTENCE finding them when the software product has already been put on the market can be quite embarrassing .
+SENTENCE generally speaking ,  every software development project has a group of testers and a group of developers .
+SENTENCE jack ?
+SENTENCE and they are different people ?
+SENTENCE they are generally completely different group of people .
+SENTENCE my personal opinion is that they have to be different groups of people because developers often have a bias for their own work ,  and it blinds them to certain problems that might be obvious to somebody else .
+SENTENCE so it is always good to have a different set of eyes to go in there and make sure that everything is tested properly .
+SENTENCE ok ,  now ,  here's the key .
+SENTENCE developers and testers have different mentalities .
+SENTENCE the mentality of the software developer is construtive ,  creative ,  they are spending long hours working together to create and build something new .
+SENTENCE a software tester ,  on the other hand ,  their entire goal is to look at this product and find problems with it ,  to improve it .
+SENTENCE now ,  this difference between the testers and the developers can lead to an environment where there is a bit of friction .
+SENTENCE and that friction sometimes makes it difficult for the two teams to work together .
+SENTENCE there are two projects that i worked on a couple of years ago .
+SENTENCE one ,  which i'll call project split ,  well ,  the testing and development teams did not work well together .
+SENTENCE and the other ,  i'll call project unity ,  during which both teams worked very well together .
+SENTENCE now ,  during project split ,  we had defect meetings where the developers and the testers met together ,  eh   eh   to discuss various problems and how they should be fixed .
+SENTENCE and you could sense the conflict just by walking into the room .
+SENTENCE literally ,  the testers and the developers sat on opposite sides on the table .
+SENTENCE um   and    and the developers were very defensive about the feedback .
+SENTENCE well ,  if bugs are being pointed out they wouldn't be too happy since its their work .
+SENTENCE exactly .
+SENTENCE now ,   cause the two teams weren't working well together ,  the fixes were coming very very slowly .
+SENTENCE and you know ,  a lot of times when you fix bugs you introduce new bugs ,  or you discover bugs and other areas that only come to light because something has been changed ,  so fixing all those new additional bugs was also being delayed .
+SENTENCE um   the test process went on much longer than expected and we ended up having to put the product on the market with known bugs in it ,  which was obviously not ideal .
+SENTENCE ok ,  and what about project unity ?
+SENTENCE how was it different ?
+SENTENCE um   this was different because two teams worked closely together during the defect meetings ,  instead of put up walls .
+SENTENCE um   we didn't even talked about ,  you know ,  who should fix this ,  who is at fault2 .
+SENTENCE we all acknowledge what needed to be fixed .
+SENTENCE so if we had ten bugs ,  we said ,   hey ,  you know what ?
+SENTENCE let's do this one first  cause this would expose another whole bunch of defects that we haven't even seen yet .
+SENTENCE so we were being proactive3 and effective .
+SENTENCE and because we were so much more effective with our time ,  we were actually able to do more than just fix the bugs ,  we even put in some improvements that we hadn't planned .
+QUESTION what factor made work on project unity efficient
+OPTION no unplanned changes were made during defect meetings 0
+OPTION the teams focused on fixing only major problems 0
+OPTION the software developers were not defensive about problems detected by the testers 1
+OPTION some of the software testers had previous experience as software developers 0

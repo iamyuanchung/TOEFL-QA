@@ -1,0 +1,47 @@
+SENTENCE hi brad ,  how are you ?
+SENTENCE i'm fine  except i have a question about my paycheck .
+SENTENCE well it's already been several weeks into the semester and my paycheck was supposed to go directly into my bank account ,  but there haven't been any deposits .
+SENTENCE yea ,  i thought graduate teaching assistants will automatically put on the payroll at the beginning of the semester .
+SENTENCE they are .
+SENTENCE let's see did you complete all the forms for payroll ?
+SENTENCE i filled in whatever they sent me ,  and i returned like at the end ofhmm ,  well ,  you definitely should have been paid by now .
+SENTENCE at least two pay periods have passed since then .
+SENTENCE i asked the bank and they didn't know anything .
+SENTENCE who should i talk to about this ,  payroll ?
+SENTENCE i'm going to contact them for you .
+SENTENCE there was a problem in processing some of the graduate student payroll paperwork .
+SENTENCE cause their computer program crashed after all the information was processed .
+SENTENCE and some people's information couldn't be retrieved .
+SENTENCE oh .
+SENTENCE but why didn't anyone let me know ?
+SENTENCE i don't know how they work over there ,   cause they couldn't even figure out whose information was missing .
+SENTENCE and this isn't the first time ,  seems like something like this happens every semester .
+SENTENCE so how do i find out if my information was lost ?
+SENTENCE i will contact them tomorrow morning to see if you're in the system .
+SENTENCE well ,  then ,  what will i need to do ?
+SENTENCE sorry but you will need to fill out those forms again and then i will faxthem over to the payroll office .
+SENTENCE and then what  well ,  what i really need to know is how long till i get some money ,  i'm already a month behind in my bills and my tuition's due soon .
+SENTENCE they'll get you into the system the same day they receive your paperwork .
+SENTENCE so if you do that tomorrow ,  you'll get paid next friday .
+SENTENCE that's a long time from now .
+SENTENCE will that paycheck include all the money i am owed ?
+SENTENCE it should .
+SENTENCE i will double check with the payroll department .
+SENTENCE and another thing ,  is there any way i could get paid sooner ,  i have been teaching all these weeks i know it's not fair but i don't think they can do anything  all the checks are computed automatically in the system .
+SENTENCE they can't just write checks .
+SENTENCE but they are the ones that made a mistake .
+SENTENCE and they never told me !
+SENTENCE i understand how you feel .
+SENTENCE if i were you ,  i'd be upset too .
+SENTENCE i'll tell you what  when i call them ,  i will explain the situation and ask if there is any way you could be paid sooner .
+SENTENCE but i have to tell you that based on past experiences you shouldn't count on it .
+SENTENCE sigh  i understand thanks .
+SENTENCE i know it's  not your fault and that you rewell ,  what i can do is make sure that your first check for the total amount that the university owes you .
+SENTENCE that'll be great !
+SENTENCE thank you .
+SENTENCE i will be on campus about 1  tomorrow morning and i will come by to see you then .
+QUESTION what happened at the payroll department
+OPTION a new computer system was installed 0
+OPTION information was entered into the computer system correctly 0
+OPTION some employee information got lost 1
+OPTION paychecks were distributed for the wrong amount 0

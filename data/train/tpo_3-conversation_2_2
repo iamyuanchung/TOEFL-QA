@@ -1,0 +1,44 @@
+SENTENCE hi ,  professor archer ,  you know how in class last week you said that you were looking for students who are interested in volunteering for your archeology project ?
+SENTENCE of course ,  are you volunteering ?
+SENTENCE yes ,  i am .
+SENTENCE it sounds really interesting ,  but um  do i need to have any experience for these kinds of projects ?
+SENTENCE no ,  not really .
+SENTENCE i assume that most students taking the introductory level class would have little or no experience with archeological research ,  but that's ok .
+SENTENCE oh ,  good ,  that's a relief .
+SENTENCE actually ,  that's why i'm volunteering for the project   to get experience .
+SENTENCE what kind of work is it ?
+SENTENCE well ,  as you know ,  we're studying the history of the campus this semester .
+SENTENCE this used to be an agricultural area and we already know that where the main lecture hall now stands ,  there once were farm house and barn that were erected in the late 17 's .
+SENTENCE we are excavating near the lecture hall to see what types of artifacts we find ,  you know ,  things people used in the past that got buried when the campus was constructed .
+SENTENCE we've already begun to find some very interesting items ,  like old bottles ,  buttons ,  pieces of clay pottery .
+SENTENCE buttons and clay pottery ?
+SENTENCE did the old owners leave in such a hurry that they left their clothes and dishes behind ?
+SENTENCE hmmm  that's just one of the questions we hope to answer with this project .
+SENTENCE wow ,  and it's all right here on campus .
+SENTENCE that's right ,  no traveling involved .
+SENTENCE i wouldn't expect volunteers to travel to a site ,  especially in the middle of the semester .
+SENTENCE we expect to find many more things ,  but we do need more people to help .
+SENTENCE so  how many student volunteers are you looking for ?
+SENTENCE i'm hoping to get five or six .
+SENTENCE i've asked for volunteers in all of the classes i teach ,  but no one has responded .
+SENTENCE you are the first person to express interest .
+SENTENCE sounds like it could be a lot of work .
+SENTENCE is there um  is there any way i can use the experience to get some extra credit in class ?
+SENTENCE i mean ,  can i write a paper about it ?
+SENTENCE i think it'll depend on what type of work you do in the excavation ,  but i imagine we can arrange something .
+SENTENCE actually i've been considering offering extra credit for class because i've been having a tough time getting volunteers .
+SENTENCE extra credit is always a good incentive for students .
+SENTENCE and how often would you want the volunteers to work ?
+SENTENCE we're asking for three or four hours per week ,  depending on your schedule .
+SENTENCE a senior researcher ,  i think you know john franklin ,  my assistant ,  is on site every day .
+SENTENCE sure ,  i know john .
+SENTENCE by the way ,  will there be some sort of training ?
+SENTENCE yes ,  er  i want to wait till friday to see how many students volunteer ,  and then i'll schedule a training class next week at a time that's convenient for everyone .
+SENTENCE ok .
+SENTENCE i'll wait to hear from you .
+SENTENCE thanks a lot for accepting me .
+QUESTION what was originally located on the site of the lecture hall
+OPTION a farmhouse 1
+OPTION a pottery factory 0
+OPTION a clothing store 0
+OPTION a bottle manufacturing plant 0

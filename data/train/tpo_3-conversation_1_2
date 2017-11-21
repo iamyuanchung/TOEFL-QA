@@ -1,0 +1,57 @@
+SENTENCE excuse me ,  i'm supposed to be having my physics class in the science building ,  but no one's in the classroom .
+SENTENCE could you tell me where the class is ?
+SENTENCE physics 4 3   has it been moved ?
+SENTENCE well ,  there's a room assignment sheet on the bulletin board outside this office .
+SENTENCE yeah ,  i know ,  but my class isn't listed there .
+SENTENCE there must be some kind of mistake or something .
+SENTENCE could you look it up ,  please ?
+SENTENCE hmmm   ok ,  let me check on the computer .
+SENTENCE it's physics ,  right ?
+SENTENCE wait ,  did you say physics 4 3 ?
+SENTENCE er i'm sorry ,  but it says here that it was cancelled .
+SENTENCE you should have gotten a letter from the registrar's office about this .
+SENTENCE what ?
+SENTENCE i've never got it .
+SENTENCE are you sure ?
+SENTENCE cause it says on the computer that the letter was sent out to students a week ago .
+SENTENCE really ?
+SENTENCE i should have gotten it by now .
+SENTENCE i wonder if i threw it away with all the junk mail by mistake .
+SENTENCE well ,  it does happen .
+SENTENCE er  let me check something .
+SENTENCE what's your name ?
+SENTENCE ok ,  hmmm woodhouse ,  let me see  ah ,  it says here we sent it to your apartment on er  center street .
+SENTENCE oh ,  that's my old apartment .
+SENTENCE i moved out of there a little while ago .
+SENTENCE well ,  and i suppose you haven't changed your mailing address at the administration office .
+SENTENCE well ,  that would explain it .
+SENTENCE yeah ,  i guess that's it .
+SENTENCE but how can they cancel the class after offering it .
+SENTENCE if i'd known this was going to happen ,  i would have taken it last semester .
+SENTENCE i know ,  it's really inconvenient for you ,  i understand that ,  but er  if we don't have enough students signed up for the course ,  the college can't offer it .
+SENTENCE you know ,  it's a practical issue ,  like we can't have an instructor when there're only a few students in the class .
+SENTENCE you see what i mean ?
+SENTENCE i guess ,  but now i don't know what course i should take instead .
+SENTENCE ok ,  let's see .
+SENTENCE do you have any courses you're going to take next semester ?
+SENTENCE if you do ,  you might want to take them now and sign up for physics 4 3 next semester .
+SENTENCE yeah ,  i guess i could do that .
+SENTENCE i just hope it won't be cancelled again .
+SENTENCE do you know how many people have to be enrolled in order to keep a class from being cancelled ?
+SENTENCE well ,  it depends on the class ,  but for that class ,  you have to have er  let's see ,  usually it'd be at least ten people ,  but since it was cancelled this semester ,  they might even do it with less .
+SENTENCE but do you know what you should do ?
+SENTENCE give the physics department a call a couple of weeks before the semester starts .
+SENTENCE they'll be able to tell you if they're planning to go through with it .
+SENTENCE it's their decision ,  actually .
+SENTENCE oh ,  ok ,  i will do that .
+SENTENCE thanks for the info .
+SENTENCE no problem .
+SENTENCE sorry about the class .
+SENTENCE oh ,  why don't you go change your mailing address now .
+SENTENCE it'll only takes a minute .
+SENTENCE oh ,  oh ,  sure ,  i will do that right way .
+QUESTION what happened to the letter the university sent to the woman
+OPTION she threw it away by mistake 0
+OPTION her roommate forgot to give it to her 0
+OPTION it was sent to her old mailing address 1
+OPTION it was sent to another student by mistake 0

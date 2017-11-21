@@ -1,0 +1,56 @@
+SENTENCE excuse me ,  can i help you ?
+SENTENCE you look a little lost .
+SENTENCE yeah ,  i am .
+SENTENCE this is my first day on campus ,  and i don't know where anything is .
+SENTENCE can't find your orientation session ?
+SENTENCE uh huh .
+SENTENCE what a way to begin !
+SENTENCE lost going to orientation well ,  my guess is in the auditorium ,  that's where they usually are .
+SENTENCE you're right ,  the general ones .
+SENTENCE i went to one of those sessions ealier today .
+SENTENCE but now i need the one for my major ,  engineering .
+SENTENCE my schedule says the meeting room is in    johnson hall ?
+SENTENCE in the engineering department ,  which should be right here in front of us ,  according to the map .
+SENTENCE but this building is called the morgan hall .
+SENTENCE well ,  your map reading skills are fine actually .
+SENTENCE this used to be johnson hall ,  all right .
+SENTENCE trouble is they changed the name to morgan hall last spring .
+SENTENCE so they sent you a map with an old name ?
+SENTENCE i am surprised .
+SENTENCE well ,  this was actually mailed out month and month ago .
+SENTENCE i got a second pack in the mail more recently with another one of these maps in it .
+SENTENCE i guess they must have the updated name .
+SENTENCE i left that one in my dorm room .
+SENTENCE well ,  things change fast around here .
+SENTENCE this building was renamed after one of our professors .
+SENTENCE she retired a few months ago .
+SENTENCE she is very well known in the world of physics .
+SENTENCE too bad for johnson ,  i guess .
+SENTENCE oh ,  one of the early professors here .
+SENTENCE unfortunately ,  i thinks his ideas are going out of style .
+SENTENCE science kept marching forward .
+SENTENCE i'll say it does .
+SENTENCE that's why i transferred to this university .
+SENTENCE i was really impressed with all the research equipment you guys have at the laboratories .
+SENTENCE you are really on the forefront .
+SENTENCE um   so do you know what kind of engineering you want to specialize in ?
+SENTENCE well ,  the aerospace engineering department here is excellent !
+SENTENCE eh   do you know that this university was the first one in the country to offer a program in aerospace engineering ?
+SENTENCE yeah ,  i know .
+SENTENCE and a couple of students who graduated from here became astronauts and orbited the earth .
+SENTENCE right .
+SENTENCE the department has many prominent alumni .
+SENTENCE well ,  you might end up taking some of your advanced math course with me .
+SENTENCE i get a lot of students from the engineering department because i teach the required applied mathematics courses .
+SENTENCE oh ,  cool .
+SENTENCE actually ,  i want to get a minor in math .
+SENTENCE excellent .
+SENTENCE hmm   a major in aerospace engineering with a minor in math ,  you'll go far with that degree .
+SENTENCE more of our students should do that .
+SENTENCE there are so many more opportunities available in the field when you have a strong math background .
+SENTENCE i'm glad to hear you say that .
+QUESTION why does the man need the professor's help
+OPTION he does not know the location of his general orientation session 0
+OPTION he lost the invitation to the engineering department's orientation session 0
+OPTION he cannot locate the building for the engineering department's orientation session 1
+OPTION he needs help deciding which area of engineering he should specialize in 0

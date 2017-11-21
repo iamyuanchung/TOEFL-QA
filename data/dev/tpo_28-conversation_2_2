@@ -1,0 +1,52 @@
+SENTENCE hi .
+SENTENCE sorry .
+SENTENCE i'm late .
+SENTENCE professor blane .
+SENTENCE no problem .
+SENTENCE jim .
+SENTENCE so you've got some questions about your senior thesis requirement ?
+SENTENCE yeah .
+SENTENCE i've got a couple of problems actually .
+SENTENCE so ,  the first thing is ,  you normally write it during the first half of the academic year .
+SENTENCE right ?
+SENTENCE in your final year of studies .
+SENTENCE but i have my student teaching scheduled for that time .
+SENTENCE i want to teach high school english after graduation .
+SENTENCE so i really need to give that my full attention .
+SENTENCE and i just worry that i won't be able to if i am writing my senior thesis at the same time .
+SENTENCE i mean ,  it's supposed to be 35 to 4  pages .
+SENTENCE that's a serious commitment .
+SENTENCE you are right .
+SENTENCE but it really isn't a problem .
+SENTENCE no .
+SENTENCE a lot of english majors get teacher certification ,  so we have students like you do their senior thesis after their student teaching .
+SENTENCE it works out well ,  because many students want to use a unit they taught as the basis of their paper .
+SENTENCE so you'll just enroll in a thesis seminar for the second semester .
+SENTENCE well ,  that's a big relief .
+SENTENCE but it brings us to my second problem .
+SENTENCE i'd really focus my studies on old and middle english literature .
+SENTENCE i am even thinking about doing a graduate degree with a concentration in that after i taught for a while .
+SENTENCE so i was hoping to do my senior thesis on chaucer ,  on the canterbury tales ,  because that would obviously be useful if i do go on .
+SENTENCE but  exactly .
+SENTENCE professor john is going to be taking a sabbatical to do research in france during the second half of the year .
+SENTENCE so without him around ,  i am not sure how i could do a senior thesis on the canterbury tales .
+SENTENCE i mean ,  the focus of his teaching and research is unique around here .
+SENTENCE yes .
+SENTENCE i understand .
+SENTENCE it would be difficult to do your paper without professor johnson around .
+SENTENCE hmmm  would you allow me to try to sell you on an alternate plan ?
+SENTENCE well ,  you can try .
+SENTENCE but chaucer is sort of my hero ,  if you know what i mean .
+SENTENCE well ,  i am teaching a course on the literature of the renaissance in the first half of the year .
+SENTENCE it'll meet late in the day ,  so it won't interfere with your teaching .
+SENTENCE and i haven't offered it in quite a while now ,  so i doubt you ever studied that period on the college level .
+SENTENCE if you would be interested in taking the course ,  i'd be happy to give you supplemental readings ,  and i'd also be happy to be your advisor for your paper later on .
+SENTENCE well ,  i never looked at that area before ,  but i have always had an interest in it .
+SENTENCE so that does have a certain appeal .
+SENTENCE well ,  if you do decide to go this route ,  i would make that decision soon and i would use this summer productively .
+SENTENCE after all ,  this is not going to be like taking an intro course .
+QUESTION what is the man's concern about the second half of the academic year
+OPTION he will not have time to do the necessary research for his senior thesis 0
+OPTION he will not be allowed to write his senior thesis on his topic choice 0
+OPTION his senior thesis advisor will not be on campus 1
+OPTION his student teaching requirement will not be complete before the thesis is due 0

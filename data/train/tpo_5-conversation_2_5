@@ -1,0 +1,45 @@
+SENTENCE hi ,  i was wondering if i could talk with you about the assignment in the film theory class .
+SENTENCE it seems that pretty much everyone else in the class gets what they are supposed to be doing but i'm not so sure .
+SENTENCE well ,  the class is for students who are really serious about film .
+SENTENCE you must have taken film courses before .
+SENTENCE yeah ,  in high school ,  film appreciation .
+SENTENCE hmmm i wouldn't think that would be enough .
+SENTENCE did you concentrate mainly on form or content ?
+SENTENCE oh ,  definitely content .
+SENTENCE we'd watch ,  say lord of the flies ,  and then discuss it .
+SENTENCE oh ,  that approach ,  treating film as literature ,  ignoring what makes it unique .
+SENTENCE i liked it ,  though .
+SENTENCE sure ,  but that kind of class .
+SENTENCE well ,  i'm not surprised that you are feeling a little lost .
+SENTENCE you know ,  we have two introductory courses that are supposed to be taken before you get to my course ,  one in film art ,  techniques ,  technical stuff and another in film history .
+SENTENCE so students in the class you are in should be pretty far along in film studies .
+SENTENCE in fact ,  usually the system blocks anyone trying to sign up for a class they shouldn't be taking ,  who hasn't taken the courses you are required to do first as prerequisites .
+SENTENCE well ,  i did have a problem with that but i discussed it with one of your office staff ,  and she gave me permission .
+SENTENCE of course .
+SENTENCE no matter how many times i tell them ,  they just keep on  well ,  for your own good ,  i'd really suggest dropping back and starting at the usual place .
+SENTENCE yes .
+SENTENCE but i've already been in this class for 4 weeks .
+SENTENCE i'd hate to just drop it now especially since i find it so different ,  so interesting .
+SENTENCE i guess so .
+SENTENCE frankly i can't believe you've lasted this long .
+SENTENCE these are pretty in depth theories we've been discussing and you've been doing ok so far ,  i guess .
+SENTENCE but still ,  the program's been designed to progress through certain stages .
+SENTENCE like any other professional training we build on pervious knowledge .
+SENTENCE then maybe you could recommend some extra reading i can do to  catch up ?
+SENTENCE well ,  are you intending to study film as your main concentration ?
+SENTENCE no ,  no .
+SENTENCE i am just interested .
+SENTENCE i'm actually in marketing ,  but there seems to be a connection .
+SENTENCE oh well ,  in in that case ,  if you're taking the course just out of interest ,  i mean i still highly recommend signing up for the introductory courses at some point ,  but in the meantime ,  there is no harm i guess in trying to keep up with this class .
+SENTENCE the interest is clearly there .
+SENTENCE eh ,  instead of any extra reading just now though ,  you could view some of the old introductory lectures .
+SENTENCE we have them on video .
+SENTENCE that would give you a better handle on the subject .
+SENTENCE it's still a pretty tall order ,  and we will be moving right along ,  so you will really need to stay on top of it .
+SENTENCE ok ,  i've been warned .
+SENTENCE now ,  could i tell you about my idea for the assignment ?
+QUESTION what does the professor advise the student to so in order to keep up with the class she is in
+OPTION take the introductory course 0
+OPTION watch some video recordings 1
+OPTION do extra reading 0
+OPTION drop out of her marketing class 0

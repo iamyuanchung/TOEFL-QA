@@ -1,0 +1,58 @@
+SENTENCE hi .
+SENTENCE paul .
+SENTENCE what can i do for you ?
+SENTENCE i have a question about the final exam .
+SENTENCE i mean ,  will it cover everything we've done all term ?
+SENTENCE or just what we've been doing since the mid term exam .
+SENTENCE everything we've done all term .
+SENTENCE oh ,  boy .
+SENTENCE you know ,  i am still not too clear about the hydrologic cycle ,  um ,  the transfer of water back and forth between the earth and the atmosphere .
+SENTENCE i really blew the question about it on the mid term exam .
+SENTENCE i want to do better on the final exam .
+SENTENCE but i am still having trouble with it .
+SENTENCE well ,  uh ,  have you been to the tutoring center ?
+SENTENCE no ,  not for geography anyway .
+SENTENCE isn't that just for when you need help with writing ,  like an essay or a research paper .
+SENTENCE oh ,  no .
+SENTENCE you can get tutoring in a lot of subjects .
+SENTENCE some graduate students from this department tutor there .
+SENTENCE that's good to know .
+SENTENCE but i hardly go there because i have a part time job .
+SENTENCE i never seem to be free when they are open .
+SENTENCE well ,  they will be extending their hours when final exams begin .
+SENTENCE you might try then .
+SENTENCE but um   well ,  since you are here now ,  can i help you with something ?
+SENTENCE well ,  the hydrologic cycle .
+SENTENCE i remember we went over a diagram in class .
+SENTENCE and from what i remember ,  water changes back and forth from water in lakes and oceans to vapor ,  and then back to water again when it falls as rain or snow ,  as precipitation .
+SENTENCE it's constantly being recycled through evaporation and condensation .
+SENTENCE that's it .
+SENTENCE basically .
+SENTENCE um   so exactly what is it you don't understand ?
+SENTENCE ok .
+SENTENCE i guess what i am really confused about is how the topography of the land ,  the mountains and valleys and stuff ,  affects precipitation .
+SENTENCE ok .
+SENTENCE good question .
+SENTENCE precipitation is influenced by topography among other things .
+SENTENCE um ,  why don't we talk about lake effect snow ?
+SENTENCE it's a phenomenon that occurs anywhere you have a large lake that doesn't freeze and have cold air flowing over it ,  mostly in the northern hemisphere  like the great lakes in the united states ?
+SENTENCE yeah .
+SENTENCE what happens is that the cold arctic air blows across the lake from the north in winter .
+SENTENCE and as the air crosses the lake ,  the lower layer is warmed by the lake water ,  which is much warmer than the arctic air .
+SENTENCE and as this air is warmed and picks up moisture ,  it becomes lighter than the air above it .
+SENTENCE so it starts to rise ,  right ?
+SENTENCE yes .
+SENTENCE and clouds begin to form .
+SENTENCE when the air gets closer to the shore ,  it's slowed down by the land and starts to pile up .
+SENTENCE so it rises even faster because it has nowhere else to go ,  that's where topography comes into the picture .
+SENTENCE and then it snows because as the air rises ,  it cools off and loses its capacity to hold water vapor .
+SENTENCE ok .
+SENTENCE thanks .
+SENTENCE any chance you'll have this question on the final ?
+SENTENCE i don't know yet .
+SENTENCE but you seem to have a handle on it .
+QUESTION why does the student go to speak with the professor
+OPTION to discuss material that might be on the final exam 1
+OPTION to review his answers to the midterm exam 0
+OPTION to get information about a class he missed 0
+OPTION to find out about the services of the tutoring center 0

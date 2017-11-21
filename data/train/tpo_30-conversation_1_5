@@ -1,0 +1,73 @@
+SENTENCE this is the administrative office ,  right ?
+SENTENCE uh huh .
+SENTENCE how can i help you ?
+SENTENCE well ,  i am stopping by to reserve a place for my school club that meet and work ,  pretty much on a regular basis .
+SENTENCE ideally ,  our preference would be to have our own office .
+SENTENCE hmm well ,  we are out of private offices .
+SENTENCE but we do have some semi private options still available .
+SENTENCE well ,  it's a setup where you'll have a larger workspace shared by two other clubs .
+SENTENCE in other words ,  each club would have its own work area within that one room .
+SENTENCE oh .
+SENTENCE are there any divider ,  walls or anything ?
+SENTENCE oh ,  yes .
+SENTENCE there will be a couple of dividers ,  so there's some privacy .
+SENTENCE um .
+SENTENCE we'll work with that then .
+SENTENCE i wouldn't want to be without an office .
+SENTENCE ok .
+SENTENCE here are the two forms you have to fill out .
+SENTENCE why don't you do it now while i set that up through out computer system .
+SENTENCE so what's your club's name ?
+SENTENCE and the last name of the club president .
+SENTENCE oh ,  it's the photography club .
+SENTENCE and it's williams .
+SENTENCE that's me .
+SENTENCE john williams .
+SENTENCE hmm that's not pulling up anything on my screen .
+SENTENCE um let me try something else .
+SENTENCE uh ,  how about your faculty advisor's name ?
+SENTENCE sarah baker .
+SENTENCE she is in the arts department .
+SENTENCE hmm no .
+SENTENCE strange .
+SENTENCE you know your club is just not showing up in my online records .
+SENTENCE is this an established club ?
+SENTENCE no .
+SENTENCE actually it's a brand new one .
+SENTENCE hmm have you completed the registration process ?
+SENTENCE yeah ,  last week .
+SENTENCE that was my very first step .
+SENTENCE right .
+SENTENCE well ,  for my purposes ,  a club definitely has to be registered before i can proceed further .
+SENTENCE at the moment ,  however ,  it appears that there's no record of your club's registration .
+SENTENCE really ?
+SENTENCE i thought everything was finalized last week .
+SENTENCE well ,  it is surprising .
+SENTENCE usually there's a 24 hour turnaround in our computer database .
+SENTENCE so then do you have the registration approval letter from the review committee ?
+SENTENCE that would give me the verification i need .
+SENTENCE yeah .
+SENTENCE i do .
+SENTENCE i mean ,  well ,  i don't have it with me .
+SENTENCE but   i  i ,  uh ,  can get it from my dorm room ,  bring it back with me and submit it with those forms you need from me .
+SENTENCE great !
+SENTENCE that'll work .
+SENTENCE and just so you are aware ,  there're lots of benefits to being registered .
+SENTENCE oh ,  yeah .
+SENTENCE i think the university will give us permission to set up a website ,  right ?
+SENTENCE i want to get students sharing their ideas on the website ,  you know ,  establish a photography blog .
+SENTENCE yes .
+SENTENCE you'll be able to do that .
+SENTENCE and um actually there's more .
+SENTENCE you'll be allowed the use of audiovisual equipment at no cost .
+SENTENCE you'll receive a club mailbox and a club email address .
+SENTENCE you'll be allowed to post your flyers and posters around the campus for publicity .
+SENTENCE and you could be eligible for funding for club events .
+SENTENCE well ,  we are definitely interested in hiring a professional speaker at one of our campus events at some point in the semester .
+SENTENCE and speakers almost always charge a fee .
+SENTENCE so i'll definitely follow up on that .
+QUESTION for what activity does the student consider requesting funding
+OPTION designing a club web site 0
+OPTION reserving audio visual equipment 0
+OPTION sponsoring a guest speaker 1
+OPTION setting up a campus e mail account 0

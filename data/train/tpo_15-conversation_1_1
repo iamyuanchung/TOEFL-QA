@@ -1,0 +1,53 @@
+SENTENCE hi !
+SENTENCE i talked to someone on the phone a couple of weeks ago ,  anna  ,  ii'm anna ,  the faculty advisor oh ,  great !
+SENTENCE i'm peter murphy .
+SENTENCE you probably don't remember me ,  but  no !
+SENTENCE no !
+SENTENCE i remember you  .
+SENTENCE you were interested in working for the paper .
+SENTENCE yeah ,  as a reporter  .
+SENTENCE that's right .
+SENTENCE you're taking a journalism class and you've done some reporting before in high school ,  right ?
+SENTENCE wow ,  you have a good memory .
+SENTENCE well we haven  't had many students applying lately so   so anyway ,  you still want to do some reporting for us ?
+SENTENCE yeah ,  if you have room for me on the staff  .
+SENTENCE well we always need more reporters ,  but you know ,  we don't pay anything ,  right ?
+SENTENCE yeah ,  i know ,  but i   uh    .
+SENTENCE i'd like the experience .
+SENTENCE it would look good on my resume  .
+SENTENCE absolutely !
+SENTENCE let's see  .
+SENTENCE i think i told you that we ask prospective reporters to turn in some outlines for possible articles  .
+SENTENCE yeah ,  i sent them in about a week ago ,  but i haven't heard anything back yet ,  so ,  so i thought i'd stop by and see ,  but i guess you haven't looked at them yet  .
+SENTENCE oh ,  max ,  the news editor .
+SENTENCE he looks at all the submissionsoh  ,  so he hasn't made any decision about me yet ?
+SENTENCE well i just got here a few minutes ago   haven't been in for a couple of days .
+SENTENCE just give me a second to check my e mail .
+SENTENCE uh   here is a message from max .
+SENTENCE let  's see .
+SENTENCE well it seems you've really impressed him .
+SENTENCE he says it would be wonderful if you could join our staff .
+SENTENCE oh ,  great !
+SENTENCE when can i start ?
+SENTENCE weii ,  you turned in an outline on something to do with the physics department ?
+SENTENCE yeah ,  they're trying to come up with ways to get more students to take their introductory courses .
+SENTENCE right ,  well  ,  apparently ,  nobody else is covering that story  ,  so he wants you to follow up on it .
+SENTENCE ok .
+SENTENCE uh   what about the other outline i sent in ,  about the proposed increase in tuition fees ?
+SENTENCE oh ,  it looks like we've got that coveredso i am starting with an article about the physics department .
+SENTENCE i guess i'd better get to work .
+SENTENCE do you have any advice on how i should cover the story ?
+SENTENCE well ,  max will want to talk to you but i am sure he will tell you to find out things like why the physics department's worried about enrollment .
+SENTENCE has the number of students been getting smaller in recent years ?
+SENTENCE by how much ?
+SENTENCE what kinds of plans are they considering to address this problem ?
+SENTENCE right ,  some of those issues are already in what i proposed  .
+SENTENCE and you'll want to do some interviews ,  you know ,  what do the professors think of the plans  ,  what do the students think   you get the idea but  but wait till i talk to max before proceeding  .
+SENTENCE right ,  he'll cover everything you need to know to be a reporter for us  .
+SENTENCE can you come back this afternoon ?
+SENTENCE he will be here until 5 o clock  .
+QUESTION why does the student go to the campus newspaper office
+OPTION to turn in outlines of possible articles 0
+OPTION to find out when his article will be printed in the newspaper 0
+OPTION to find out if he got a position as a reporter 1
+OPTION to get help with an assignment for his journalism course 0

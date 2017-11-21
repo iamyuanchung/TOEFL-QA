@@ -1,0 +1,34 @@
+SENTENCE excuse me ,  mrs.  hanson .
+SENTENCE my name is john ,  john grant .
+SENTENCE i work as a waiter in the campus dining hall ,  in the faculty dining room .
+SENTENCE what can i do for you ,  john ?
+SENTENCE well ,  i work week nights ,  except for friday .
+SENTENCE i was wondering if i could switch from working the dinner service to working at lunch .
+SENTENCE that's going to be a problem .
+SENTENCE i am afraid we don't have any openings at lunch time .
+SENTENCE a lot of students want to work then ,  so it is really rare for us to have an open spot at that time of day .
+SENTENCE oh ,  you see ,  i have joined this group ,  the university jazz band ,  and the band's practice time is right around dinner time .
+SENTENCE you know ,  it is so hard to get into this group ,  i must have auditioned like ten times since i have been at the school ,  so i am    anyway ,  so i was really hoping to have the dinner hour free so i can go to practice .
+SENTENCE well ,  we do have other open times ,  like breakfast .
+SENTENCE eh ,  that won't work ,  i am sorry .
+SENTENCE i mean that ,  i can't work that early .
+SENTENCE i have this very important music class i got to take ,  and it is like ,  first thing in the morning .
+SENTENCE well ,  if you don't mind working in the kitchen ,  we've got some pretty flexible hours for students doing food prep work ,  anything from early morning to late afternoon .
+SENTENCE you prepare food for the cooks .
+SENTENCE you know ,  like cutting up vegetables for soup ,  or cleaning greens for salads .
+SENTENCE oh ,  that doesn't sound ,  i mean   being a waiter ,  i get to see a lot of the professors ,  like in a different light ,  we joke around a little you know .
+SENTENCE in the classroom ,  they always have to be pretty formal ,  but    well ,  the money is no different since we pay students the same amount for any of the jobs here in food service ,  so it's up to you .
+SENTENCE oh ,  man .
+SENTENCE i always thought that sacrificing for my art ,  that'd mean working long hours as a musician for ,  like ,  no money .
+SENTENCE i didn't think it'd mean ,  peeling carrots .
+SENTENCE let me see ,  i am offering you something that has the hours you want ,  it is right here on campus ,  and you make as much money as you did being a waiter ,  quite a sacrifice .
+SENTENCE i am sorry ,  i know you are just trying to help .
+SENTENCE i guess i should look into the food prep ok ,  then ,  i'll tell the kitchen manager that you will stop by tomorrow to talk about the job and schedule your hours .
+SENTENCE and i will let the dining hall manager know that he needs to find a new waiter for the evening .
+SENTENCE oh ,  ok ,  i guess that 's it .
+SENTENCE thanks ,  mrs.  hanson .
+QUESTION the woman asks the man to consider a different job , what kind of work would the man have to do for the new job
+OPTION get ingredients ready for a meal 1
+OPTION clean kitchen equipment for the cooks 0
+OPTION prepare the weekly menu for the dining hall 0
+OPTION coordinate schedules for student workers 0

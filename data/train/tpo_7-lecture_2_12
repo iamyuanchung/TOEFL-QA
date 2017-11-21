@@ -1,0 +1,55 @@
+SENTENCE professor  so ,  that is how elephants use infrasound .
+SENTENCE now ,  let's talk about the other end of the acoustical spectrum ,  sound that is too high for humans to hear   ultrasound .
+SENTENCE ultrasound is used by many animals that detect and some of them send out very high frequency sounds .
+SENTENCE so ,  what is a good example ?
+SENTENCE yes ?
+SENTENCE carol .
+SENTENCE carol  well ,  bats ,  since they are all blind ,  bats have to use sound for ,  you know ,  to keep from flying into things .
+SENTENCE professor  that is echolocation .
+SENTENCE echolocation is pretty self explanatory  using echoes reflected sound waves to locate things .
+SENTENCE as carol said ,  bats use it for navigation and orientation .
+SENTENCE and what else ?
+SENTENCE mike .
+SENTENCE mike  well ,  finding food is always important ,  and i guess not becoming food for other animals .
+SENTENCE professor  right ,  on both counts .
+SENTENCE avoiding other predators ,  and locating prey ,  typically insects that fly around at night .
+SENTENCE now before i go on ,  let me just respond to something carol was saying    this idea that bats are blind .
+SENTENCE actually ,  there are some species of bats ,  the ones that don't use echolocation that do rely on their vision for navigation ,  but it is true that for many bats ,  their vision is too weak to count on .
+SENTENCE ok ,  so quick summary of how echolocation works .
+SENTENCE the bat emits these ultrasonic pulses ,  very high pitch sound waves that we cannot hear .
+SENTENCE and then ,  they analyze the echoes ,  how the waves bounce back .
+SENTENCE here ,  let me finish this diagram i started before class .
+SENTENCE so the bat sends out these pulses ,  very focused bursts of sound ,  and echoes bounce back .
+SENTENCE you know ,  i don't think i need to draw on the echoes ,  your reading assignment for the next class  it has a diagram that shows this very clearly .
+SENTENCE so ,  anyway ,  as i were saying ,  by analyzing these echoes ,  the bat can determine ,  say ,  if there is wall in a cave that it needs to avoid ,  and how far away it is .
+SENTENCE another thing it uses ultrasound to detect is the size and shape of objects .
+SENTENCE for example ,  one echo they quickly identify is the one they associate with a moth ,  which is common prey for a bat ,  particularly a moth beating its wings .
+SENTENCE however ,  moth happened to have a major advantage over most other insects .
+SENTENCE they can detect ultrasound  this means that when a bat approaches ,  the moth can detect the bat's presence .
+SENTENCE so ,  it has time to escape to safety ,  or else they can just remain motionless .
+SENTENCE since ,  when they stop beating their wings ,  they'd be much harder for the bat to distinguish from ,  oh  a leaf or some other object .
+SENTENCE now ,  we have tended to underestimate just how sophisticated the abilities of animals that use ultrasound are .
+SENTENCE in fact ,  we kind of assumed that they were filtering a lot out ,  the way a sophisticated radar system can ignore echoes from stationary objects on the ground .
+SENTENCE radar does this to remove ground clutter ,  information about hills or buildings that it doesn't need .
+SENTENCE but bats ,  we thought they were filtering out this kind of information ,  because they simply couldn't analyze it .
+SENTENCE but ,  it looks as if we were wrong .
+SENTENCE recently there was this experiment with trees and a specific species of bats .
+SENTENCE a bat called  the lesser spearnosed bat .
+SENTENCE now ,  a tree should be a huge acoustical challenge for a bat ,  right ?
+SENTENCE i mean it's got all kinds of surfaces with different shapes and angles .
+SENTENCE so ,  well ,  the echoes from a tree are going to a mass of chaotic acoustic reflections ,  right ,  not like the echo from a moth .
+SENTENCE so ,  we thought for a long time that bats stop their evaluation at simply that is a tree .
+SENTENCE yet ,  it turns out that bats or at least this particular species ,  cannot only tell that is a tree ,  but can also distinguish between ,  say ,  a pine tree ,  and a deciduous tree ,  like a maple or oak tree ,  just by their leaves .
+SENTENCE and when i say ,  leaves ,  i mean pine needles too .
+SENTENCE any ideas on how it would know that ?
+SENTENCE student well ,  like with the moth ,  could it be their shape ?
+SENTENCE professor  you are on the right track   it is actually the echo of all the leaves as whole that matters .
+SENTENCE now ,  think ,  a pine tree with all those little densely packed needles .
+SENTENCE those produce a large number of faint reflections in what's   what's called a    a smooth echo .
+SENTENCE the wave form is very even ,  but an oak which has fewer but bigger leaves with stronger reflections ,  produces a jagged wave form ,  or what we called  a rough echo .
+SENTENCE and these bats can distinguish between the two ,  and not just with trees ,  but with any echo that comes in a smooth or rough shape .
+QUESTION what is the lecture mainly about
+OPTION how animals emit ultrasonic pulses 0
+OPTION how bats use acoustical signals 1
+OPTION a comparison of echolocation and radar 0
+OPTION variations among bats in the use of ultrasound 0

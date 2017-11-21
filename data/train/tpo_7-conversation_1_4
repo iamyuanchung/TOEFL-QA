@@ -1,0 +1,62 @@
+SENTENCE eric  hi ,  professor mason ,  do you have a minute ?
+SENTENCE professor  yeah ,  of course ,  eric .
+SENTENCE i think there was something i wanted to talk to you about too .
+SENTENCE eric  probably my late essay .
+SENTENCE professor  ah ,  that must be it .
+SENTENCE i thought maybe i've lost it .
+SENTENCE eric  no ,  i'm sorry .
+SENTENCE actually it was my computer that lost it ,  the first draft of it .
+SENTENCE and ,  well ,  anyway ,  i finally put it in your mailbox yesterday .
+SENTENCE professor  oh , and i haven't checked the mailbox yet today .
+SENTENCE well ,  i'm glad it's there .
+SENTENCE i will read it this weekend .
+SENTENCE eric  well ,  sorry again .
+SENTENCE say ,  i can send it to you by email too if you like .
+SENTENCE professor  great .
+SENTENCE i'll be interested to see how it all came out .
+SENTENCE eric  right .
+SENTENCE now ,  um ,  i just have overheard some graduate students  talking ,  something about a party for dean adams ?
+SENTENCE professor  retirement party ,  yes ,  all students are invited .
+SENTENCE wasn't there notice on the anthropology department's bulletin board ?
+SENTENCE eric  uh ,  i don't know .
+SENTENCE but i want to offer help out with it .
+SENTENCE you know whatever you need .
+SENTENCE dean adams ,  well ,  i took a few anthropology classes with her and they were great ,  inspiring .
+SENTENCE that's why i want to pitch in .
+SENTENCE professor  oh ,  that's very thoughtful of you ,  eric ,  but it will be pretty low key ,  nothing flashy .
+SENTENCE that's not her style .
+SENTENCE professor  no ,  we'll have coffee and cookies ,  maybe a cake .
+SENTENCE but actually a couple of the administrative assistants are working on that .
+SENTENCE you could ask them but i think they've got covered .
+SENTENCE professor  actually ,  oh ,  no ,  never mind .
+SENTENCE professor  well ,  it's nothing to do with the party and i'm sure there are more exciting ways that you could spend your time .
+SENTENCE but we do need some help with something .
+SENTENCE we're compiling a database of articles the anthropology faculty has published .
+SENTENCE there is not much glory in it ,  but we are looking for someone with some knowledge of anthropology who can enter the articles .
+SENTENCE i hesitate to mention it .
+SENTENCE but i don't suppose this is something you would .
+SENTENCE eric  no ,  that sounds kind of cool .
+SENTENCE i would like to see what they are writing about .
+SENTENCE professor  wonderful .
+SENTENCE and there are also some unpublished studies .
+SENTENCE did you know dean adams did a lot of field research in indonesia ?
+SENTENCE most of it hasn't been published yet .
+SENTENCE eric  no ,  like what ?
+SENTENCE professor  well ,  she is really versatile .
+SENTENCE she just spent several months studying social interactions in indonesia and she's been influential in ethnology .
+SENTENCE oh ,  and she's also done work in south of america ,  this is closer to biology ,  especially with speciation .
+SENTENCE eric  uh ,  not to seem uninformed .
+SENTENCE professor  well ,  how species form .
+SENTENCE you know ,  how two distinct species form from one .
+SENTENCE like when populations of the same species are isolated from each other and then develop into two different directions and end up as two distinct species .
+SENTENCE professor  yes ,  and while she was there in south america ,  she collected a lot of linguistic information and songs ,  really fascinating .
+SENTENCE eric  well .
+SENTENCE i hate to see her leave .
+SENTENCE professor  don't worry .
+SENTENCE she'll still be around .
+SENTENCE she's got lots of projects that she's still in the middle of .
+QUESTION why does the professor talk about speciation
+OPTION to describe the main focus of the work she needs help with 0
+OPTION to tell the man about a new research area in ethnology 0
+OPTION to explain what dean adams chose to work on in indonesia 0
+OPTION to demonstrate how varied dean adams'sresearch has been 1

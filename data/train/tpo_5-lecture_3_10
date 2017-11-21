@@ -1,0 +1,58 @@
+SENTENCE okay .
+SENTENCE i know you all have a lot of questions about this lab assignment that's coming out so    i'm gonna take a little time this morning to discuss it .
+SENTENCE so ,  you know the assignment has to do with spectroscopy ,  right ?
+SENTENCE and your reading should help you get a good idea of what that's all about .
+SENTENCE but ,  let's talk about spectroscopy a little now just to cover the basics .
+SENTENCE what is spectroscopy ?
+SENTENCE well ,  the simplest definition i can give you is that spectroscopy is the study of the interaction between matter and light .
+SENTENCE now ,  visible light consists of different colors or wavelengths ,  which together make up what's called spectrum ,  a band of colors ,  like you see in a rainbow .
+SENTENCE and all substances ,  all forms of matter ,  can be distinguished according to what wavelength of light they absorb and which ones they reflect .
+SENTENCE it's like ,  um ,  well ,  every element has ,  what we call ,  its own spectral signature .
+SENTENCE if we can read that signature ,  we can identify the element .
+SENTENCE and that's exactly what spectroscopy does .
+SENTENCE now ,  laser spectroscopy ,  which is the focus of your assignment ,  works by measuring very precisely what parts of the spectrum are absorbed by different substances .
+SENTENCE and it has applications in a lot of different disciplines .
+SENTENCE and your assignment will be to choose a discipline that interests you ,  and devise an experiment .
+SENTENCE for example ,  i'm gonna talk about art .
+SENTENCE i'm interested in the art and to me it's interesting how spectroscopy is used to analyze art .
+SENTENCE let's say a museum curator comes to you with a problem .
+SENTENCE she's come across this painting that appears to be an original   let's say ,  a rembrandt .
+SENTENCE and she wants to acquire it for her museum .
+SENTENCE but she's got a problem  she's not absolutely certain it's an original .
+SENTENCE so ,  what do you do ?
+SENTENCE how do you determine whether the painting's authentic ?
+SENTENCE okay .
+SENTENCE think about the scientific process .
+SENTENCE you've got the question  is the painting a rembrandt ?
+SENTENCE so first ,  you'll need to make a list of characteristics the painting would have to have to be a rembrandt .
+SENTENCE then you have to discover whether the painting in question has those characteristics .
+SENTENCE so first of all ,  you'll need to know the techniques rembrandt used when he applied paint to canvas   his brushstrokes ,  how thickly he applied his paint .
+SENTENCE so you'd need to work with an art historian who has expert knowledge of rembrandt's style .
+SENTENCE you'd have to know when he created his paintings ,  um   what pigments he used ,  in other words ,  what ingredients he used to make different colors of paint ,   cause the ingredients used in paints and binding agents plus burnishes ,  finishes ,  what have you ,  have changed over time .
+SENTENCE since you're trying to verify if it's a rembrandt ,  the ingredients in the pigment would need to have been used during rembrandt's lifetime   in the 17th century .
+SENTENCE and that's where chemistry comes in .
+SENTENCE you've got to find out what's in those pigments ,  learn their composition ,  and that requires lab work   detective work really   in a word ,  spectroscopy .
+SENTENCE so ,  how do we use spectroscopy ?
+SENTENCE well ,  we put an infrared microscope   a spectroscope   on tiny tiny bits of paint .
+SENTENCE and using ultraviolet light we can see the spectral signature of each component part of the pigment .
+SENTENCE then we compare these signatures with those of particular elements like zinc or lead ,  to determine what the pigment was made of .
+SENTENCE so ,  you can see why this type of analysis requires a knowledge of the history of pigments ,  right ?
+SENTENCE how and when they were made ?
+SENTENCE say we determined a pigment was made with zinc ,  for example .
+SENTENCE we know the spectral signature of zinc .
+SENTENCE and it matches that of the paint sample .
+SENTENCE we also know that zinc wasn't discovered until the 18th century .
+SENTENCE and since rembrandt lived during the 17th century ,  we know he couldn't have painted it .
+SENTENCE now ,  spectroscopy has a very distinct advantage over previous methods of analyzing our works ,  because it's not invasive .
+SENTENCE you don't have to remove big chips of paint to do your analysis ,  which is what other methods require .
+SENTENCE all you do is train the microscope on tiny flecks of paint and analyze them .
+SENTENCE now a word or two about restoration .
+SENTENCE sometimes original art works appear questionable or inauthentic because they've had so many restorers add touch up layers to cover up damage ,  damage from the paint having deteriorated over time .
+SENTENCE well ,  spectroscopy can reveal the composition of those touch up layers too .
+SENTENCE so we can find out when they were applied .
+SENTENCE then if we want to undo some bad restoration attempts ,  we can determine what kind of process we can use to remove them to dissolve the paint and uncover the original .
+QUESTION what is one way the professor mention that can help with art restoration
+OPTION by re creating the pigments and binding agents used by artists of earlier eras 0
+OPTION by removing pigments and binding agents that dissolve paintings over time 0
+OPTION by creating protective coatings of paint that do not damage original paintings 0
+OPTION by developing ways to safely remove paint added by previous restorers 1

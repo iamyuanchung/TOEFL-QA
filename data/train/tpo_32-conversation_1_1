@@ -1,0 +1,43 @@
+SENTENCE hi .
+SENTENCE can i help you ?
+SENTENCE yeah .
+SENTENCE i need to sell back a textbook .
+SENTENCE are you the person i speak to about that ?
+SENTENCE i am .
+SENTENCE but we can't buy textbooks back just yet ,  because the bookstore's buyback period isn't until next thursday .
+SENTENCE i thought it started this week .
+SENTENCE it is only in the last week of the semester after classes are over .
+SENTENCE oh .
+SENTENCE well ,  can you tell me if this book will be on the buyback list ?
+SENTENCE i can look .
+SENTENCE but we are still putting the list together .
+SENTENCE professors have to tell us what books they'll definitely need again next semester ,  and the deadline for them to let us know isn't for a couple of days .
+SENTENCE so the list i have here is not really complete .
+SENTENCE um what class was the book for ?
+SENTENCE intro to economics ,  with professor murphy .
+SENTENCE professor murphy .
+SENTENCE ok .
+SENTENCE i checked earlier and i know she hasn't gotten back to us on that class yet .
+SENTENCE so we don't know if she'll use the same book next time .
+SENTENCE usually if an updated edition of a textbook is available ,  professors will go for that one .
+SENTENCE um so if this book doesn't end up on the buyback list ,  what can i do ?
+SENTENCE i spent over a hundred dollars for it ,  and i want to get something back .
+SENTENCE well ,  if a professor didn't assign it for a class here ,  we could buy back for a whole seller who would distribute it for sale at another university bookstore .
+SENTENCE anyway if professor murphy does put it on the list ,  it is important thatyou come in as early as possible next thursday .
+SENTENCE there's only a limited number of books we would buy back .
+SENTENCE once we get the number of books we need for next semester ,  we would stop buying them .
+SENTENCE ok .
+SENTENCE so how much money will i get for the book ?
+SENTENCE well ,  if it's on the buyback list ,  we'll pay fifty percent of what the new price was .
+SENTENCE but that also depends on what condition the book is in ,  so it needs to be cleaned up as much as possible .
+SENTENCE because used books show wear and tear ,  you know ,  water stains ,  scruffy covers ,  yellow highlighting you really need to make sure there are no pencil marks on the book .
+SENTENCE the price you can get for a text depends on the shape it's in .
+SENTENCE you mean i have to erase all the pencil marks ?
+SENTENCE if you want the best price for it and what if you decide the book is too beat up and don't buy it back ?
+SENTENCE that does happen .
+SENTENCE hmm well ,  one more thing you can try is to place an ad in the student newspaper to see if you can sell it directly to another student .
+QUESTION what is the conversation mainly about
+OPTION reasons that the man wants to sell his textbook 0
+OPTION how to find out which books are on the buyback list 0
+OPTION the bookstore's policies for buying back textbooks from students 1
+OPTION the student's deadline for selling old textbooks 0

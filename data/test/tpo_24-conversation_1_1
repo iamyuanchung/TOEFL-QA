@@ -1,0 +1,63 @@
+SENTENCE hi .
+SENTENCE can you tell me where to find new kind of science ?
+SENTENCE by ,  uh ,  by stephen wolfram .
+SENTENCE uh ,  i couldn't find it  ok .
+SENTENCE let me look it up on the computer for you .
+SENTENCE who would you say the author was ?
+SENTENCE ok .
+SENTENCE let's see   hmm   no ,  it's not coming up .
+SENTENCE hmm   ,  .
+SENTENCE i am not seeing it  this is for a course here at the university ,  right ?
+SENTENCE yeah ,  it's assigned reading for a class i am taking .
+SENTENCE it's for the semester ,  right ?
+SENTENCE you are not buying it in advance for next year or anything .
+SENTENCE no ,  no .
+SENTENCE it's for a class i am taking now .
+SENTENCE oh ,  oh ,  you know what ?
+SENTENCE um ,  it's for a graduate class .
+SENTENCE would that maybe make a difference ?
+SENTENCE i mean ,  i am an undergrad ,  but i am just taking this one class in the graduate department ,  so .
+SENTENCE no ,  no .
+SENTENCE i don't think that's it .
+SENTENCE that shouldn't make any difference .
+SENTENCE but ,  hmm   let me see   maybe it's just  it could be that whoever that entered it misspelled the title or the author's name ,  so i can't find it on the computer and i can't tell if it's sold out .
+SENTENCE but if it's sold out ,  we would probably be getting a new shipment within about a week or so .
+SENTENCE well ,  uh ,  i was hoping to get it sooner because like we already have assignments and you know ,  i mean ,  i guess i can get it from the library .
+SENTENCE right ,  of course .
+SENTENCE but i am trying to check .
+SENTENCE if we've ordered more ,  then that back orders information should be in the computer too .
+SENTENCE let's see   back order   wolfram ,  stephen   ,  .
+SENTENCE no ,  no .
+SENTENCE i am not seeing it .
+SENTENCE i am sorry .
+SENTENCE we just don't seem to carry it .
+SENTENCE this is odd though .
+SENTENCE what is  what's your professor's name ?
+SENTENCE i could try searching for his or her classes in the database .
+SENTENCE that might help  um  ok .
+SENTENCE it's professor kayne .
+SENTENCE no .
+SENTENCE it's professor kayne ,  k a y n e .
+SENTENCE he's in the computer science department .
+SENTENCE oh .
+SENTENCE it's for a computer science course ,  is it ?
+SENTENCE well ,  that must be it .
+SENTENCE computer science books are sold across the street in the computer bookstore .
+SENTENCE are there signs up anywhere ?
+SENTENCE maybe they should put some up .
+SENTENCE it could have save us both some time .
+SENTENCE yeah .
+SENTENCE well ,  anyway ,  i'll bet that's the problem .
+SENTENCE check across the street .
+SENTENCE i'll bet they have it .
+SENTENCE but if not ,  come back ,  and i'll help you find it somewhere else .
+SENTENCE i can call around to see if other bookstores might have it .
+SENTENCE ok ?
+SENTENCE ok .
+SENTENCE thanks a lot .
+SENTENCE bye .
+QUESTION why can the man not find the book he needs
+OPTION the bookstore is sold out of the book 0
+OPTION the bookstore he is in does not carry the book 1
+OPTION his professor did not order enough copies of the book 0
+OPTION the book is not being used for any course offered at the university 0

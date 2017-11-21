@@ -1,0 +1,55 @@
+SENTENCE ok .
+SENTENCE last time we talked about photosynthesis ,  the process by which plants use light to convert carbon dioxide and water into food .
+SENTENCE today i want to talk about another way light affects plants .
+SENTENCE i am sure you all know from physics class about how light moves in microscopic ways and that we can only see light when the wavelength of that light is in a specific range .
+SENTENCE plus ,  depending on the wavelengths ,  we see different colors .
+SENTENCE well ,  plants are also capable of distinguishing between different wavelengths of light .
+SENTENCE now ,  i don't want to confuse you .
+SENTENCE it is not like plants have eyes .
+SENTENCE plants don't see in the sense that humans or animals do ,  but they do have photoreceptors .
+SENTENCE photoreceptors are cells that respond to light by sending out a chemical signal .
+SENTENCE and the organism ,  the plant ,  reacts to this signal .
+SENTENCE in fact ,  the signals that plants get from their photoreceptors sometimes cause significant reactions .
+SENTENCE and many plants are seasonal .
+SENTENCE and one way they know when winter is ending and spring is beginning is by sensing the change in light .
+SENTENCE the time when an adult plant flowers is based on the amount of light the plant senses .
+SENTENCE certain plant species won't flower if they sense too much light and some plants will only flower if they sense a specific amount of light .
+SENTENCE of course ,  these aren't conscious reactions .
+SENTENCE these plants just automatically respond to light in certain ways .
+SENTENCE plants are also able to distinguish between specific wavelengths of light that the human eye cannot even see !
+SENTENCE specifically there's a wavelength called far red .
+SENTENCE although why they call it far red   i mean ,  it is not red at all .
+SENTENCE it lies in the infrared range of the spectrum .
+SENTENCE we can't see it ,  but plants can sense it as a different wavelength .
+SENTENCE ok .
+SENTENCE now i need to mention another thing about photosynthesis .
+SENTENCE i didn't explain how different wavelengths of light affect photosynthesis .
+SENTENCE when a plant absorbs light for performing photosynthesis ,  it only absorbs some wavelengths of light and reflects others .
+SENTENCE plants absorb most of the red light that hits them ,  but plants only absorb some of the far red light that hits them .
+SENTENCE they reflect the rest .
+SENTENCE remember this ,  because it's going to be relevant in an experiment i want to discuss .
+SENTENCE this fascinating experiment showed that plants not only detect and react to specific wavelengths of light ,  plants can also detect and react to changes in the ratio of one wavelength to another .
+SENTENCE this experiment was called the pampas experiment .
+SENTENCE the idea behind the pampas experiment had to do with the response of plants to changes in the ratio of red light to far red light that the plants sense with their photoreceptors .
+SENTENCE some biologists hypothesize that a plant will stop growing if it's in the shade of another plant ,  a reaction that's triggered when it senses an unusual ratio of red light to far red light .
+SENTENCE ok .
+SENTENCE imagine there are two plants .
+SENTENCE one below the other .
+SENTENCE the plant on top would absorb most of the red light for photosynthesis ,  but reflect most of the far red light .
+SENTENCE that would lead to the plant in its shade sensing an unusual ratio .
+SENTENCE there will be less red light and more far red light than normal .
+SENTENCE what that ratio signifies is important .
+SENTENCE a ratio of less red and to more far red light would cause a reaction from the plant .
+SENTENCE it would stop growing taller ,  because that plant would sense that it wasn't going to get enough sunlight to provide the energy to grow large .
+SENTENCE to test their hypothesis ,  researchers took some electrical lights ,  um  actually ,  they were light emitting diodes ,  or leds .
+SENTENCE these light emitting diodes could simulate red light .
+SENTENCE so they put these leds around some plants that were in the shade .
+SENTENCE the leds produce light that the plants sensed as red .
+SENTENCE but ,  unlike sunlight ,  the light from these leds did not support photosynthesis .
+SENTENCE so the plants sensed the proper ratio of red light to far red light and reacted by continuing to grow taller ,  while in reality these plants were not getting enough energy from photosynthesis to support all of that growth .
+SENTENCE and because they weren't getting enough energy to support their growth ,  most of the shaded plants died after a short time .
+QUESTION what is the lecture mainly about
+OPTION the differences in how humans and plants sense light 0
+OPTION an explanation of an experiment on color and wavelength 0
+OPTION how plants sense and respond to different wavelengths of light 1
+OPTION the process by which photoreceptors distinguish wavelengths of light 0

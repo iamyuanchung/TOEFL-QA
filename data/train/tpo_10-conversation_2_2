@@ -1,0 +1,47 @@
+SENTENCE hi ,  i bought this book at the beginning of the semester ,  but ,  some thing's come up and  i'd like to return it .
+SENTENCE well ,  for a full refund  store policy is that you have to return merchandise 2 weeks from the time it was purchased .
+SENTENCE uh   but for assigned textbooks or anything having to do with specific courses .
+SENTENCE wait   was it for a specific course ?
+SENTENCE well   for course books ,  the deadline is 4 weeks after the beginning of the semester .
+SENTENCE so this for this fall semester ,  the deadline was october .
+SENTENCE 1st .
+SENTENCE ouch ,  then i missed it .
+SENTENCE but ,  why october .
+SENTENCE 1st ?
+SENTENCE well ,  i guess the reasoning is the by october .
+SENTENCE 1st ,  the semester is in full gear .
+SENTENCE and everyone kind of knows what courses they'll be taking that semesteri get it ,  so it's mainly for people who decide to withdraw from  to change to new courses early on .
+SENTENCE exactly !
+SENTENCE the book has to been in perfect condition of course .
+SENTENCE they can't be marked up or looked use in any way for the full refund ,  i mean .
+SENTENCE well ,  but ,  see ,  my situation is a little different .
+SENTENCE i hope you might be able to make anwell ,  the policies are generally pretty rigid and the semester is almost over .
+SENTENCE okay .
+SENTENCE here's what happened .
+SENTENCE um  i think my professor really miscalculated .
+SENTENCE anyway the syllabus was way too ambitious in my opinion .
+SENTENCE there're only 2 weeks of classes left in the semester and there are like 6 books on the syllabus that we haven't even touched .
+SENTENCE i see .
+SENTENCE so you were hoping to return this one .
+SENTENCE yeah ,  the professor already announced that we won't be reading this one by jane bowles and all the others i bought usedjane bowles ?
+SENTENCE which book of hers ?
+SENTENCE oh ,  but you should keep that one .
+SENTENCE are you interested in literature ?
+SENTENCE well .
+SENTENCE i am an english major .
+SENTENCE you are lucky to have a professor who includes a lesser known writer like her on the syllabus ,  you know ,  not the usual authors we've all read .
+SENTENCE i do .
+SENTENCE and especially if you're into literaturehmm   well ,  this i wasn't expecting .
+SENTENCE i mean uh   wow !
+SENTENCE i hope you don't think i am being pushy .
+SENTENCE if you prefer ,  you can return the book and arrange for a store credit ,  you don't qualify for a refund .
+SENTENCE policy is policy after all ,  but you can make an exchange and you can use the credit for your books for next semester .
+SENTENCE the credit carries over for one semester to the next .
+SENTENCE hmm that's good to know ,  but now i am really intrigued .
+SENTENCE i guess that just because we ran out of time to read this book in class ,  doesn't mean that i can 't read it on my own time .
+SENTENCE you know ,  i think i'll give it a try .
+QUESTION what is the store's policy about giving refunds on books
+OPTION books that are not for a specific course will receive a store credit instead of a refund 0
+OPTION course textbooks can be returned for a full refund early in the school semester 1
+OPTION all books must be returned within two weeks to be eligible for a full refund 0
+OPTION only books that are in new condition will get a full refund 1

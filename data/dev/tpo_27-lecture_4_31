@@ -1,0 +1,46 @@
+SENTENCE ok .
+SENTENCE as you probably know ,  primary colors are ,  theoretically speaking ,  the basic colors from which all other colors can be made .
+SENTENCE but as you'll find out when you start working on your painting projects ,  the three primary colors   red ,  blue ,  yellow   don't always make the best secondary colors .
+SENTENCE combining red and blue ,  you will probably never get a fantastic violet .
+SENTENCE to get a nice violet ,  you'll have to add white .
+SENTENCE combining yellow and blue ,  you will almost never get a satisfactory green .
+SENTENCE you are better off using a pure green pigment .
+SENTENCE the idea of primary colors ,  and specifically the idea of red ,  yellow and blue being the primary colors ,  didn't exist until about 2   years ago .
+SENTENCE until then ,  the dominant theory about color was one that had been proposed by isaac newton .
+SENTENCE newton gave a scientific and objective explanation of colors .
+SENTENCE he used a prism to break white light down into the various colors of the spectrum .
+SENTENCE and he theorized ,  rightly so ,  that different colors are essentially different wavelengths of light .
+SENTENCE but he made no mention of primary colors .
+SENTENCE that idea came from ,  or was at least published by a man named johann wolfgang von goethe .
+SENTENCE goethe was a well known author .
+SENTENCE he wrote many famous novels ,  plays ,  poems .
+SENTENCE so why did he start thinking about colors ?
+SENTENCE well goethe was part of the romantic movement in western literature .
+SENTENCE and he was a romantic ,  through and through ,  meaning that he explained objects and phenomena in terms of the spiritual ,  emotional impact they had ,  as opposed to explaining them in terms of their scientific nature .
+SENTENCE he rejected an objective understanding of color ,  in favor of a more subjective understanding .
+SENTENCE he believed that when we see color ,  it stimulates our emotions .
+SENTENCE and different colors appeal to or inspire different emotions in different people .
+SENTENCE well ,  color theory is used in psychology too .
+SENTENCE some psychologists do use their field's version of color theory to diagnose and treat patients .
+SENTENCE um  anyway ,  goethe conducted a number of experiments trying to figure out which colors corresponded to which emotions .
+SENTENCE and in terms of that goal ,  he wasn't very successful .
+SENTENCE but his experiments actually did show a lot about the relationships between colors themselves ,  about how colors change when placed next to other colors ,  about how they interact with one another .
+SENTENCE scientists studying optics and chromatics today still marvel at his findings .
+SENTENCE but goethe wasn't really able to establish a clear connection between colors and emotions .
+SENTENCE then in 18 6 ,  he received a letter from a relatively unknown german artist ,  a painter named philipp otto runge .
+SENTENCE in the letter ,  runge outlined his own color theory ,  specifically the connections he made between colors and emotions .
+SENTENCE and his ideas about what colors symbolize ,  about the emotions that different colors inspire were based on the colors red ,  yellow and blue .
+SENTENCE runge's choice of red ,  yellow and blue had nothing to do with what we know from modern day chromatics ,  it had to do with runge's complex system of symbolism ,  his experience of nature ,  particularly with his experience of the quality of light at various times of the day ,  morning ,  noon and night .
+SENTENCE so each color had a specific symbolic value .
+SENTENCE well ,  four years later ,  goethe published a book entitled color lesson .
+SENTENCE in color lesson ,  goethe coincidently cites the same colors as primary colors .
+SENTENCE at this point ,  goethe was already a well known author ,  so he was easily able to popularize this idea of primary colors ,  and specifically the idea of red ,  yellow and blue as the primary colors .
+SENTENCE but he didn't mention runge ?
+SENTENCE well ,  he did put runge's letter in the book ,  at the end .
+SENTENCE but he added a disclaimer implying that runge's letter didn't influence his work .
+SENTENCE apparently ,  what goethe was saying was that they just happened to come up with the same theory at the same time .
+QUESTION why does the professor mention isaac newton
+OPTION to show the similarities between early ideas in art and early ideas in science 0
+OPTION to explain why mixing primary colors does not produce satisfactory secondary colors 0
+OPTION to provide background information for the theory of primary colors 1
+OPTION to point out the first person to propose a theory of primary colors 0

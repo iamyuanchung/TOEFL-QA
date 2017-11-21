@@ -1,0 +1,59 @@
+SENTENCE hi  !
+SENTENCE i hope you can help me  .
+SENTENCE i just transferred from northeastern state university near chicago .
+SENTENCE well welcome to central university  .
+SENTENCE but chicago is such a great city .
+SENTENCE why did you leave ?
+SENTENCE everyone asks that .
+SENTENCE it's my hometown .
+SENTENCE and it was sure convenient to go to a school nearby .
+SENTENCE but northeastern is still fairly small .
+SENTENCE and it doesn't have the program i'm interested in .
+SENTENCE i want to major in international studies .
+SENTENCE and the only program int the state is here .
+SENTENCE we do have a great program .
+SENTENCE well how did you get interested in international studies ?
+SENTENCE my family hosted a few foreign exchange students while i was growing up .
+SENTENCE then i took part in an international summer program after i graduated from high school .
+SENTENCE i thought i really i like meeting people from all over ,  getting to know them .
+SENTENCE oh !
+SENTENCE ok !
+SENTENCE and that led you to our program .
+SENTENCE right now though i think you are looking for a job .
+SENTENCE yeah ,  a part time job on campus .
+SENTENCE i thought i'd save money  , being away from the big city .
+SENTENCE but it doesn't seem to be working that way  .
+SENTENCE anyway i'm not having much luck .
+SENTENCE i'm not surprised .
+SENTENCE most of our campus jobs are taken in the first week or two of the semester .
+SENTENCE what work experience have you had ?
+SENTENCE well ,  i worked in the university library last year .
+SENTENCE but i already checked at the library here .
+SENTENCE they said their remaining positions were for work study students getting financial aid .
+SENTENCE i've never run into that before .
+SENTENCE well ,  i guess each school has its own policies .
+SENTENCE uh ,  we really don't have much right now .
+SENTENCE you might be better .
+SENTENCE if you really want something ,  how are your computer skills ?
+SENTENCE about average i'd say .
+SENTENCE i helped teach some of the basic computer classes .
+SENTENCE northeastern offers for new users ,  if that helps any .
+SENTENCE ok ,  the technology support department needs people to work its helpdesk .
+SENTENCE it's basically a customer service job ,  answering questions ,  helping people solve their computer proplems , give you a chance to develop your people skills .
+SENTENCE something every diplomat needs .
+SENTENCE but is there some problem ?
+SENTENCE i mean why is the job still open ?
+SENTENCE well ,  they have extended hours ,  from 6am to 2am every day .
+SENTENCE so they need a large staff .
+SENTENCE but right now they only need people early mornings ,  late nights ,  and weekends .
+SENTENCE you'd probably end up with a bit of everything rather than a regular spot .
+SENTENCE on the bright side you'll probably be able to get some studying done between calls .
+SENTENCE at least it could be a start and then you can try for better hours next semester  .
+SENTENCE um ,  i see why the hours might be a problem .
+SENTENCE but i guess i can't afford to be too picky if i want a job .
+SENTENCE still maybe we can work something out  .
+QUESTION why did the student transfer to central university
+OPTION to take advantage of an academic program 1
+OPTION to participate in a student exchange program 0
+OPTION to attend a smaller university than the one he was at before 0
+OPTION to benefit from central university's international reputation 0

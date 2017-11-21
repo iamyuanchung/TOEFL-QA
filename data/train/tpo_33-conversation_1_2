@@ -1,0 +1,61 @@
+SENTENCE hi .
+SENTENCE i am a little lost .
+SENTENCE um ,  is this the housing maintenance office ?
+SENTENCE you found it .
+SENTENCE how can i help you ?
+SENTENCE oh ,  good .
+SENTENCE i have a quick question .
+SENTENCE are we allowed to keep electric heaters in our rooms ?
+SENTENCE actually ,  you are not .
+SENTENCE what's going on ?
+SENTENCE your room cold ?
+SENTENCE it's freezing in my room .
+SENTENCE i think the heat went out or something .
+SENTENCE are you sure it's out ?
+SENTENCE maybe it just got turned out too far .
+SENTENCE oh ,  no .
+SENTENCE i tried adjusting the ,  uh ,  the heat control ,  but it doesn't make any difference .
+SENTENCE it's so cold in my bedroom i can't sleep at night .
+SENTENCE i've actually been sleeping on the sofa in the front room .
+SENTENCE the heat still works in there .
+SENTENCE actually ,  we get hot air in all the bedrooms except ours .
+SENTENCE wow !
+SENTENCE do you have a roommate ?
+SENTENCE yeah .
+SENTENCE but she said she isn't bothered by the cold .
+SENTENCE but on the sofa ,  i am kept up by the noise out in the hall .
+SENTENCE the dorms can sometimes get pretty noisy .
+SENTENCE so what can be done about it ?
+SENTENCE well ,  ok .
+SENTENCE there's a couple of things we can do .
+SENTENCE i can have a custodian take a look at it and see if he can do something .
+SENTENCE actually ,  i asked the custodian yesterday to take a look .
+SENTENCE but he said he couldn't find anything wrong .
+SENTENCE he said that some of the other rooms have lost heat also and that if we'd come here you guys would fix it .
+SENTENCE oh ,  he did ?
+SENTENCE that's weird ,  because i would have well ,  the custodians themselves are usually supposed to report any problems right away .
+SENTENCE ok .
+SENTENCE in that case ,  then what you need to do is here ,  fill out this form .
+SENTENCE i have to fill out a form ?
+SENTENCE yeah ,  but at least that'll put your heater problem in a work order for the maintenance crew and they'll get to you as soon as possible .
+SENTENCE just so you know ,  because it's not winter yet and it's not as cold as it could be ,  it may take a few days for a maintenance crew to get to you .
+SENTENCE a few days ?
+SENTENCE i can't even sleep in my own room !
+SENTENCE can't we just get an electric heater ?
+SENTENCE i am sorry .
+SENTENCE but students just aren't allowed .
+SENTENCE ok .
+SENTENCE i can see that this is a problem ,  and not just with your room .
+SENTENCE so if you can get the form back to me this afternoon ,  i'll try to get a maintenance crew to look at your problem by tomorrow .
+SENTENCE how's that ?
+SENTENCE oh ,  that would be great .
+SENTENCE seriously .
+SENTENCE i have to take off now .
+SENTENCE but when i fill this form out ,  i give it to you ,  right ?
+SENTENCE right .
+SENTENCE and if i am not here ,  just put it in my box and i'll get it .
+QUESTION how has the woman been dealing with her problem
+OPTION by using an electric heater 0
+OPTION by staying in a different building 0
+OPTION by sleeping in another room in her building 1
+OPTION by exchanging rooms with a friend 0

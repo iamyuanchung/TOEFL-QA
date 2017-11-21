@@ -1,0 +1,63 @@
+SENTENCE today i'd like to talk a bit about the relationship between the built world and sound .
+SENTENCE uh ,  the design of buildings like concert halls or theaters .
+SENTENCE so ,  what's the most important aspect in the design of such a building ?
+SENTENCE yes .
+SENTENCE now ,  people have been concerned about how sound carries in auditoriums and theaters for at least 2 ,     years .
+SENTENCE but it was not until the beginning of the twentieth century that architectural acoustics became a scientific field .
+SENTENCE that was when the physicist wallace sabine started to do extensive studies on reverberation .
+SENTENCE sabine wanted to find out why the audience could not understand speakers at a lecture hall in boston .
+SENTENCE he designed a series of studies on reverberation to figure it out .
+SENTENCE so ,  what is reverberation ?
+SENTENCE it's the persistence of sound in a room after the source has stopped making sound .
+SENTENCE you see ,  sound made in a room reflects off the walls ,  floors and ceiling .
+SENTENCE that's the reverberant sound .
+SENTENCE the time it takes for the reverberant sound to die down is important for the acoustic quality of a room .
+SENTENCE sabine recognized this and he came up with an equation to measure a room's reverberation time .
+SENTENCE so ,  what happens if the reverberation time is very long ?
+SENTENCE wouldn't it be difficult to hear new sounds if you can still hear the old sounds ?
+SENTENCE exactly .
+SENTENCE a long reverberation time may cause musical notes to drown one another out .
+SENTENCE on the other hand ,  if the reverberation time is very short   meaning ,  the reverberations are absorbed very quickly ,  the room is called dead .
+SENTENCE performers would feel they have to struggle to fill the room with sound .
+SENTENCE we don't want that .
+SENTENCE in a concert hall or theater ,  we prefer a live room ,  where the sound has fullness .
+SENTENCE so we need to control the reverberation time .
+SENTENCE after all ,  we don't want the listeners or the performers have to struggle ,  right ?
+SENTENCE so what are some important considerations when we design a theater or a concert hall ?
+SENTENCE the size of the place ?
+SENTENCE absolutely .
+SENTENCE the larger the room ,  the longer the reverberation time .
+SENTENCE so we'll have to take into account what the room will be mainly used for ,  since music requires more reverberation than speech .
+SENTENCE a room intended for music needs to be designed differently from a room intended for drama .
+SENTENCE for music ,  we need a very large room ,  a concert hall ,  actually i should say for full orchestras .
+SENTENCE because for a single instrument ,  say something like a piano recital ,  a room with a short reverberation time is better .
+SENTENCE so for a solo piano a smaller room works well .
+SENTENCE yes ?
+SENTENCE i read that concert halls designed for symphony orchestras have too much echo for jazz music .
+SENTENCE that doesn't surprise me .
+SENTENCE most small jazz groups would need rooms with a shorter reverberation time .
+SENTENCE but besides the size of the room ,  another variable affecting reverberation is the shape of the room .
+SENTENCE let's say you design a rectangular box like space with bare walls and ceiling ,  this would allow the sound to act like a ball in a racquetball court ,  you know ,  bouncing around and hitting some parts of the walls and ceiling but missing many others .
+SENTENCE if that happens in a concert hall ,  audience members may hear some sounds ,  but not others .
+SENTENCE so what can be done to distribute the sound evenly in every direction ?
+SENTENCE the answer is  avoid straight ,  parallel walls .
+SENTENCE but i think i've seen photos of rectangular concert halls .
+SENTENCE right .
+SENTENCE older concert halls from the 18 's are generally rectangular .
+SENTENCE but they all have a lot of decorations on the walls inside ,  lots of ornamental plasterwork like statues ,  which distribute sound very efficiently ,  reflecting it in all different directions .
+SENTENCE and that brings me to another variable we need to consider .
+SENTENCE the acoustic characteristics of the building materials as well as the wall and floor coverings .
+SENTENCE in fact ,  most objects you see in a concert hall or theater serve double duty .
+SENTENCE the plush chairs absorb sound and soften reverberation .
+SENTENCE and the beautiful crystal chandeliers ?
+SENTENCE they are very good at diffusing sound .
+SENTENCE you see ,  everything must be planned down to the last detail in order to predict the acoustic performance of a room .
+SENTENCE that being said ,  there's something that can't be controlled by the architect .
+SENTENCE the audience has an effect on acoustics too .
+SENTENCE the heads of people are good diffusers of sound .
+SENTENCE and architects try to account for this effect in their design ,  but they can't guarantee a full auditorium .
+QUESTION why does the professor mention a piano recital
+OPTION to illustrate that different kinds of performances require rooms with different reverberation times 1
+OPTION to demonstrate that the size of the instrument can affect its acoustic properties 0
+OPTION to cite a type of performance suitable for rectangular concert hall 0
+OPTION to exemplify that the reverberation time of a room is related to its size 1

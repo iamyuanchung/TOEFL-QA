@@ -1,0 +1,53 @@
+SENTENCE hi .
+SENTENCE i am tom arnold .
+SENTENCE i am supposed to pick up a packet from the regional center for marine research .
+SENTENCE i am doing an internship there this summer .
+SENTENCE yes .
+SENTENCE i have it right here .
+SENTENCE the mail carrier dropped it off a few minutes ago .
+SENTENCE thanks .
+SENTENCE um i wanted to ask about getting credits for the internship .
+SENTENCE i don't know if i might be able to help you with that .
+SENTENCE is there a problem ?
+SENTENCE i just wanted to make sure the details have been corrected .
+SENTENCE the system should show that i am registered to earn four credits .
+SENTENCE but as of friday ,  nothing was showing up yet .
+SENTENCE i was told it would be fixed this morning .
+SENTENCE well ,  i can check on the computer for you .
+SENTENCE tom arnold ,  right ?
+SENTENCE well ,  it is showing credits but only three .
+SENTENCE really ?
+SENTENCE so now what ?
+SENTENCE these all have to be finalized last week .
+SENTENCE well ,  yes .
+SENTENCE the course enrollment period ended last week .
+SENTENCE but since our office was supposed to get this straightened out for you before then  let me see what i can do .
+SENTENCE uh did the university give approval for you to earn four credits for this internship ?
+SENTENCE because the other students at the center for marine research are only getting three .
+SENTENCE um i am pretty sure those other students are doing the internship at the center's aquarium ,  taking classes in marine biology and then teaching visitors about the various displays .
+SENTENCE i am doing a special research internship with the center .
+SENTENCE we'll be collecting data on changes to the seafloor out in the open ocean .
+SENTENCE oh .
+SENTENCE that sounds quite advanced .
+SENTENCE well ,  the internship requires me to have scuba diving certification and to be a senior oceanography student .
+SENTENCE i want to do advanced study in oceanography when i graduate .
+SENTENCE so i really want to get a sense of what real research is like .
+SENTENCE i see .
+SENTENCE now let's try and see if we can  oh .
+SENTENCE ok .
+SENTENCE i see the problem .
+SENTENCE there are two kinds of internships listed here regular and research .
+SENTENCE yours is listed as regular so it is only showing three credits .
+SENTENCE not yet .
+SENTENCE but it lists professor leonard as she is in charge of all the internships .
+SENTENCE she just needs to send an email so i have an official record .
+SENTENCE then i can switch it .
+SENTENCE and that should solve everything .
+SENTENCE great !
+SENTENCE and i know professor leonard is in her office this afternoon ,  so i can go there later .
+SENTENCE it will be such a relief to get all these paperwork completed .
+QUESTION what is the conversation mainly about
+OPTION proposed changes to an internship program 0
+OPTION a document that was not delivered on time 0
+OPTION a canceled course 0
+OPTION an error in a registration record 1

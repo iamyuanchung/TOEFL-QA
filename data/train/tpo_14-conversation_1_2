@@ -1,0 +1,49 @@
+SENTENCE hi ,  i am looking for this book   the american judicial system .
+SENTENCE and i can't seem to find it anywhere .
+SENTENCE i need to read a chapter for my political science class .
+SENTENCE let me check in the computer .
+SENTENCE um  doesn't seem to be checked out and it's not on reserve .
+SENTENCE you've checked the shelves i assume .
+SENTENCE yeah ,  i even checked other shelves and tables next to where the book should be .
+SENTENCE well ,  it's still here in the library .
+SENTENCE so people must be using it .
+SENTENCE you know this seems to be a very popular book tonight .
+SENTENCE we show six copies .
+SENTENCE none are checked out .
+SENTENCE and ,  yet you didn't even find one copy on the shelves .
+SENTENCE is it a big class ?
+SENTENCE well ,  you should ask your professor to put some of the copies on reserve .
+SENTENCE you know about the  reserve system  ,  right ?
+SENTENCE i know that you have to read reserve books in the library and that you have time limits .
+SENTENCE but i didn't know that i could ask a professor to put a book on reserve .
+SENTENCE i mean i thought the professors make that kind of decisions at the beginning of the semester .
+SENTENCE oh  they can put books on reserve at anytime during the semester .
+SENTENCE you know reserving book seems a bit unfair .
+SENTENCE what if someone who is not in the class wants to use the book ?
+SENTENCE that's why i said some copies .
+SENTENCE ah ,  well ,  i'll certainly talk to my professor about it tomorrow .
+SENTENCE but what i am gonna do tonight ?
+SENTENCE i guess you could walk around the poli sci  political science  section and look at the books waiting to be re shelved .
+SENTENCE there do seem to be more than normal .
+SENTENCE we are a little short staffed right now .
+SENTENCE someone quit recently ,  so things aren't getting re shelved as quickly as usual .
+SENTENCE i don't think they've hired a replacement yet ,  so ,  yeah ,  the un shelved books can get a bit out of hand .
+SENTENCE this may sound a bit weird .
+SENTENCE but i've been thinking about getting a job .
+SENTENCE um  i've never worked in a library before ,  but  that's not a requirement .
+SENTENCE the job might still be open .
+SENTENCE at the beginning of the semester we were swamped with applications ,  but i guess everyone who wants a job has one by now .
+SENTENCE what can you tell me about the job ?
+SENTENCE well ,  we work between six and ten hours a week ,  so it's a reasonable amount .
+SENTENCE usually we can pick the hours we want to work .
+SENTENCE but since you'd be starting so late in the semester ,  i'm not sure how that would work for you .
+SENTENCE and  oh  we get paid the normal university rates for student employees .
+SENTENCE so who do i talk to ?
+SENTENCE i guess you talk to dr .
+SENTENCE jenkins ,  the head librarian .
+SENTENCE she does the hiring .
+QUESTION why is the student having a problem getting the book she wants
+OPTION other students are using the book in the library 1
+OPTION the book is kept in the political science library 0
+OPTION the student has the incorrect title for the book 0
+OPTION all the copies of the book have been checked out of the library 0

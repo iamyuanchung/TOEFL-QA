@@ -1,0 +1,48 @@
+SENTENCE ok ,  now i want to talk about an animal that has a fascinating set of defense mechanisms .
+SENTENCE and that's the octopus ,  one of the unusual creatures that live in the sea .
+SENTENCE the octopus is prey to many species ,  including humans ,  so how does it escape its predators ?
+SENTENCE well ,  let me back up here a second .
+SENTENCE anyone ever heard of proteous ?
+SENTENCE proteus was a god in greek mythology who could change form .
+SENTENCE he could make himself look like a lion or a stone or a tree ,  anything you wanted ,  and he could go through a whole series of changes very quickly .
+SENTENCE well ,  the octopus is the real world version of proteus .
+SENTENCE just like proteus ,  the octopus can go through all kinds of incredible transformations .
+SENTENCE and it does this in three ways  by changing color ,  by changing its texture ,  and by changing its size and shape .
+SENTENCE for me ,  the most fascinating transformation is when it changes its color .
+SENTENCE it's a normal skin color ,  the one it generally presents ,  is either red or brown or even grey ,  and it 's speckled with dark spots .
+SENTENCE but when it wants to blend in with its environment to hide from its enemies ,  it can take on the color of its immediate surroundings  the ocean floor ,  a rock ,  a piece of coral ,  whatever .
+SENTENCE charles ?
+SENTENCE do we know how that works ,  i mean ,  how they change colors ?
+SENTENCE well ,  we know that the reaction that takes place is not chemical in nature .
+SENTENCE the color changes are executed by two different kinds of cells in the octopus   skin ,  mainly by color cells on the skin's surface call chromatophoreschromatophores consist of tiny sacks filled with color dye .
+SENTENCE there might be a couple hundred of these color sacks per square millimeter of the octopus   skin ,  and depending on the species ,  they can come in as many as five different colors .
+SENTENCE each one of these sacks is controlled by muscles .
+SENTENCE if the muscles are relaxed ,  the sack shrinks ,  and all you see is a little white point .
+SENTENCE but if the muscle's contract ,  then the sack expands ,  and you can see the colors .
+SENTENCE and by expanding different combinationsand just with various combinations of those five colors ,  they can recreate any color in their environment ?
+SENTENCE well ,  they can no doubt create a lot with just those five colors ,  but you are right ,  maybe they can't mimic every color around them ,  so that's where the second kind of cell comes in .
+SENTENCE just below the chromatophores is a layer of cells that reflect light from the environment ,  and these cells help the octopus create a precise match with the colors that surround them .
+SENTENCE the colors from the color sacks are supplemented with colors that are reflected from the environment ,  and that 's how they are able to mimic colors with such precision .
+SENTENCE so ,  that's how octopus mimic colors .
+SENTENCE but they don't just mimic the colors in their environment  they can alos mimic the texture of objects in their environment .
+SENTENCE they have these little projections on their skin that allow them to resemble various textures .
+SENTENCE the projections are called  .
+SENTENCE if the octopus wants to have a rough texture ,  it raises the papillae .
+SENTENCE if it wants to have a smooth texture ,  it flattens out the papillae ,  so it can acquire a smooth texture to blend in with the sandy bottom of the sea .
+SENTENCE so the octopus has the ability to mimic both the color and the texture of its environment .
+SENTENCE and it's truly amazing how well it can blend in with its surroundings .
+SENTENCE you can easily swim within a few feet of an octopus and never see it .
+SENTENCE i read that they often hide from predators by squirting out a cloud of ink ,  or yes .
+SENTENCE the octopus can release a cloud of ink if it feels threatened .
+SENTENCE but it doesn't hide behind it ,  as is generally believed .
+SENTENCE um ,  the ink cloud is    it serves to distract a predator while the octopus makes its escape .
+SENTENCE um ,  now there's a third way that octopus can transform themselves to blend in with or mimic their environment ,  and that's by changing their shape and size ,  well ,  at least their apparent size .
+SENTENCE the muscular system of the octopus enables it to be very flexible to assume all sorts of shapes and postures .
+SENTENCE so it can contract into the shape of a little round stone ,  and sit perfectly still on the seafloor .
+SENTENCE or it can nestle up in the middle of a plant and take the shape of one of the leaves .
+SENTENCE even proteus would be impressed ,  i think .
+QUESTION how does an octopus change color to match the colors in its environment
+OPTION by raising its papillae 0
+OPTION by releasing colored ink 0
+OPTION by reflecting light from its environment 1
+OPTION by contracting the muscles around its chromatophores 1

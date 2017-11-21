@@ -1,0 +1,51 @@
+SENTENCE hi ,  i'm not sure ,  but um   is this the carter language lab ?
+SENTENCE yes ,  it is .
+SENTENCE how can i help you ?
+SENTENCE i'm taking first year spanish this semester .
+SENTENCE our professor says we need to come here to view a series of videos .
+SENTENCE i think it is called spanish   working on your accent ?
+SENTENCE yes ,  we have that .
+SENTENCE um   .
+SENTENCE they are on the wall behind you .
+SENTENCE ok .
+SENTENCE so ,  i can just take   .
+SENTENCE err    can i take the whole series home ?
+SENTENCE i think there arei guess you haven't been here before .
+SENTENCE no ,  no i haven't .
+SENTENCE ok ,  well ,  you have to watch the videos here .
+SENTENCE you need to sign in to reserve an open room and sign out the video you need ,  just start with the first one in the series ,  each video is half an hour long .
+SENTENCE so ,  it is a video library ,  basically ?
+SENTENCE yes ,  but unlike the library ,  you can't take any videos out of the lab .
+SENTENCE ok ,  so how long can i use a video room for ?
+SENTENCE you can sign up for two hours at a time .
+SENTENCE oh ,  good ,  so i can watch more than one video when i come up here .
+SENTENCE is the lab pretty busy all the time ?
+SENTENCE well ,  rooms are usually full right after dinner time ,  but you can sign up the day before to reserve a room if you want .
+SENTENCE err  the day before   .
+SENTENCE but ,  i can just stop in too ,  to see if there's any rooms open ,  right ?
+SENTENCE sure ,  stop in any time .
+SENTENCE what about copies of the videos ?
+SENTENCE is there just one copy of each in the series ?
+SENTENCE i don't want to miss out if everyone comes in at once .
+SENTENCE oh ,  no ,  we have several copies of each tape in the spanish accent series .
+SENTENCE we usually have multiple copies of everything for each video collection .
+SENTENCE super .
+SENTENCE so  how many rooms are there total in the lab ?
+SENTENCE 2  .
+SENTENCE they are pretty small .
+SENTENCE so ,  we normally get one person or no more than a small group of people in there watching a video together .
+SENTENCE actually ,  someone else from your class just came in and took the first spanish video in to watch .
+SENTENCE you could probably run in there and watch it with him .
+SENTENCE of course ,  you are welcome to have own room .
+SENTENCE but ,  sometimes students like to watch with a classmate ,  so they can review the material with each other afterwards .
+SENTENCE for example ,  if there was some content they didn't really understand .
+SENTENCE i guess i prefer my own room .
+SENTENCE i concentrate better by myself and i don't want to miss anything ,  you know ,  and he's probably already started watching it .
+SENTENCE no problem ,  we've got a lot of rooms open right now .
+SENTENCE when you come in ,  you sign your name on the list and you're assign a room number ,  or if you call in advance ,  then the attendant will tell you your room number ,  if you forget ,  just come in and take a look at the list .
+SENTENCE the videos are over there .
+QUESTION what will the student probably do next
+OPTION ask a classmate to watch a video with him 0
+OPTION sign out a spanish video 1
+OPTION find out when the video he needs will be available 0
+OPTION buy a copy of the video series 0

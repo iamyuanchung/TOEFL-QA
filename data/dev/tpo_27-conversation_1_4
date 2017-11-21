@@ -1,0 +1,68 @@
+SENTENCE hi .
+SENTENCE can i help you ?
+SENTENCE where do i go ,  besides the computers ,  to look for books on new zealand ?
+SENTENCE ok .
+SENTENCE you mean you don't want to use the computer ?
+SENTENCE well ,  i haven't had any luck on the computers here .
+SENTENCE ok .
+SENTENCE i mean the reason i am asking is you pretty much have to go to the computer to find out where a book is .
+SENTENCE but i can help you find it on the computer if you like .
+SENTENCE that would be great .
+SENTENCE i just spent half an hour and i couldn't find anything .
+SENTENCE i know how you feel .
+SENTENCE when i first started working here ,  i couldn't find anything either .
+SENTENCE so you are looking for information on new zealand ,  is that right ?
+SENTENCE is it like travel information that you are looking for ?
+SENTENCE uh  no .
+SENTENCE actually what i am looking for is information on a volcano in new zealand .
+SENTENCE oh .
+SENTENCE ok .
+SENTENCE because i know a travel agency that specializes in tours in new zealand and australia .
+SENTENCE oh .
+SENTENCE i'd love to go .
+SENTENCE i heard it's beautiful .
+SENTENCE yup .
+SENTENCE ok .
+SENTENCE let's see   ok .
+SENTENCE if you want to search the library holdings and don't know the author's name or the exact title of the book or an article ,  you have to set up a keyword search .
+SENTENCE it is a special function .
+SENTENCE then you can just type in some keywords and let the computer do the search .
+SENTENCE ok .
+SENTENCE oh ,  how about if we search for volcanoes and new zealand .
+SENTENCE it's for a geology class ?
+SENTENCE ha !
+SENTENCE you must be from professor simpson's class .
+SENTENCE oh .
+SENTENCE well ,  he is a volcano expert ,  so i thought he might be teaching your class .
+SENTENCE no ,  i've heard he is really good though .
+SENTENCE yeah .
+SENTENCE that's what everyone says .
+SENTENCE do you know the name of the volcano ?
+SENTENCE sure .
+SENTENCE it is r u a p e h u .
+SENTENCE ok .
+SENTENCE mount ruapehu .
+SENTENCE let's see .
+SENTENCE so are you a geology major ?
+SENTENCE let me guess ,  you have to take a science course and you don't want to have to deal with biology ,  chemistry or physics .
+SENTENCE exactly .
+SENTENCE but it's actually turned out to be a pretty interesting class .
+SENTENCE well ,  that's good .
+SENTENCE um  does it have to be a book ?
+SENTENCE or could you use a journal article ?
+SENTENCE mhmm  no ,  either one would be fine .
+SENTENCE ok .
+SENTENCE well ,  here's a journal article .
+SENTENCE let me check to see if we have it .
+SENTENCE ok .
+SENTENCE we have the article ,  but it is from 2  1 .
+SENTENCE is that ok ,  you think ?
+SENTENCE well ,  i'd like to have a look at it .
+SENTENCE the focus is really on eruptions in the last five years ,  but it might have some useful background material .
+SENTENCE ok .
+SENTENCE well ,  let's see what else we can find .
+QUESTION what topic does the woman need information on
+OPTION the recent activity of a volcano in new zealand 1
+OPTION various types of volcanoes found in new zealand 0
+OPTION all volcanoes in new zealand that are still active 0
+OPTION how people in new zealand have prepared for volcanic eruptions 0

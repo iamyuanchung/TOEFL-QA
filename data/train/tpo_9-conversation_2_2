@@ -1,0 +1,48 @@
+SENTENCE excuse me .
+SENTENCE can you help me with something ?
+SENTENCE i'll do my best .
+SENTENCE what do you need ?
+SENTENCE well ,  i received a letter in my mailbox saying that i'm supposed to return a book that i checked out back in january ,  it's call  modern social problems  .
+SENTENCE but because i'm writing my senior thesis ,  i'm supposed to be able to keep the book all semester .
+SENTENCE so you signed up for extended borrowing privileges ?
+SENTENCE but we are still asking you to bring the book back ?
+SENTENCE ok .
+SENTENCE um   oh ,  i see ,  it's been recalled .
+SENTENCE you can keep it all semester as long as no one else requests it .
+SENTENCE but ,  someone else has .
+SENTENCE it looks like one of the professors in the sociology department has requested it .
+SENTENCE so you have to bring it back ,  even though you've got extended borrowing privileges .
+SENTENCE you can check out the book again when it's returned in a couple of weeks .
+SENTENCE but i really need this book right now .
+SENTENCE do you need all of it or is there a certain section or chapter you're working with ?
+SENTENCE i guess there is one particular chapter i've been using lately for a section of my thesis .
+SENTENCE why ?
+SENTENCE well ,  you can photocopy up to one chapter of the book .
+SENTENCE why don't you do that for the chapter you're working on right now ?
+SENTENCE and by the time you need the rest of the book ,  maybe it will have been returned .
+SENTENCE we can even do the photocopying for you because of the circumstances .
+SENTENCE oh ,  well ,  that would be great .
+SENTENCE i see you've got some books there .
+SENTENCE is that the one you were asked to return ?
+SENTENCE no ,  i left it in my dorm room .
+SENTENCE these are books i need to check out today .
+SENTENCE is it ok if i bring that one by in a couple of days ?
+SENTENCE actually ,  you need to return it today .
+SENTENCE that is if you want to check out those books today .
+SENTENCE that's our policy .
+SENTENCE oh ,  i didn't know that .
+SENTENCE yeah ,  not a lot of people realize that .
+SENTENCE in fact ,  every semester we get a few s who have their borrowing privileges suspended completely because they haven't returned books .
+SENTENCE they're allowed to use books only in the library .
+SENTENCE they're not allowed to check anything out because of unreturned books .
+SENTENCE that's not good .
+SENTENCE i guess i should head back down to the dorm right now then .
+SENTENCE but ,  before you go ,  what you should do is fill out a form requesting the book back in two weeks .
+SENTENCE you don't want to waste any time getting it back .
+SENTENCE thanks a lot .
+SENTENCE now i don't feel quite so bad about having to return the book .
+QUESTION what does the woman offer to do for the man
+OPTION let the man know when a book he needs is returned to the library 0
+OPTION photocopy a chapter of a book for him 1
+OPTION ask a professor to return a book the man needs 0
+OPTION find a copy of a book for him at another library 0
