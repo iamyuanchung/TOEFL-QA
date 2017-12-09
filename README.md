@@ -2,25 +2,26 @@
 
 Authors: [Bo-Hsiang Tseng](https://sites.google.com/site/bohsiangtseng/) (data collector) & [Yu-An Chung](http://people.csail.mit.edu/andyyuan/) (data releaser)
 
-Notes: The dataset is used by [Tseng et al. (2016)](https://arxiv.org/abs/1608.06378), [Fang et al. (2016)](https://arxiv.org/abs/1608.07775), and [Chung et al. (2017)](https://arxiv.org/abs/1711.05345). We make the dataset publicly available to encourage more research on this challenging task. If you have any question about this dataset, don't hesitate to shoot me an email at iamyuanchung@gmail.com
+Notes: The dataset was originally collected by [Tseng et al. (2016)](https://arxiv.org/abs/1608.06378), and used in [Fang et al. (2016)](https://arxiv.org/abs/1608.07775) and [Chung et al. (2017)](https://arxiv.org/abs/1711.05345). We make the dataset publicly available to encourage more research on this challenging task. If you have any question about this dataset, don't hesitate to shoot me an email at iamyuanchung@gmail.com
 
 # Introduction
 Multimedia or spoken content presents more attractive information than plain text content, but it?s more difficult to display on a screen and be selected by a user. As a result, accessing large collections of the former is much more difficult and time-consuming than the latter for humans. It?s highly attractive to develop a machine which can automatically understand spoken content and summarize the key information for humans to browse over. In this endeavor, we propose a new task of machine comprehension of spoken content. We define the initial goal as the listening comprehension test of [TOEFL](https://en.wikipedia.org/wiki/Test_of_English_as_a_Foreign_Language), a challenging academic English examination for English learners whose native language is not English.
 
 In this test, the subjects would first listen to an audio story around five minutes and then answer several question according to that story. The story is related to the college life such as conversation between the student and the professor or a lecture in the class. Each question has four choices where only one is correct. A real example in the TOEFL examination is shown in the following figure. The questions in TOEFL are not simple even for a human with relatively good knowledge because the question cannot be answered by simply matching the words in the question and in the choices with those in the story, and key information is usually buried by many irrelevant utterances. To answer the questions like ?Why does the professor mention Issac Newton??, the listeners have to understand the whole audio story and draw the inferences to answer the question correctly.
-![](https://github.com/iamyuanchung/TOEFL-QA/blob/master/example.png) <!-- .element width="75%" -->
+![](https://github.com/iamyuanchung/TOEFL-QA/blob/master/example.png)
 
 # Data
 The collected TOEFL dataset includes 963 examples in total (717 for training, 124 for validation, 122 for testing). Each example consists of a story, a question, and 4 choices.
 
 # Existing Models
 Evaluation metric: Accuracy on the test set
-|                                                                | Acc. on test set |
-|:--------------------------------------------------------------:|:----------------:|
-|  [Sukhbaatar et al. (2015)](https://arxiv.org/abs/1503.08895)  |        45.2      |
-|     [Tseng et al. (2016)](https://arxiv.org/abs/1608.06378)    |        42.5      |
-|     [Fang et al. (2016)](https://arxiv.org/abs/1608.07775)     |        49.1      |
-|     [Chung et al. (2017)](https://arxiv.org/abs/1711.05345)    |        56.1      |
+
+|                                                                |  Acc. on test set  |
+|:--------------------------------------------------------------:|:------------------:|
+|  [Sukhbaatar et al. (2015)](https://arxiv.org/abs/1503.08895)  |         45.2       |
+|     [Tseng et al. (2016)](https://arxiv.org/abs/1608.06378)    |         42.5       |
+|     [Fang et al. (2016)](https://arxiv.org/abs/1608.07775)     |         49.1       |
+|     [Chung et al. (2017)](https://arxiv.org/abs/1711.05345)    |         56.1       |
 
 # Citation
 If you use the dataset in your work, please cite the following two papers as:
