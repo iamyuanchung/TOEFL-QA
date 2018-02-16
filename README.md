@@ -35,10 +35,10 @@ If you use the dataset in your work, please cite the following two papers as:
 ```
 and
 ```
-@article{chung2017supervised,
-  title   = {Supervised and unsupervised transfer learning for question answering},
-  author  = {Chung, Yu-An and Lee, Hung-Yi and Glass, James},
-  journal = {arXiv preprint arXiv:1711.05345},
-  year    = {2017}
+@inproceedings{chung2018supervised,
+  title     = {Supervised and unsupervised transfer learning for question answering},
+  author    = {Chung, Yu-An and Lee, Hung-Yi and Glass, James},
+  booktitle = {NAACL HLT},
+  year      = {2018}
 }
 ```
