@@ -1,6 +1,6 @@
 # TOEFL-QA: A question answering dataset for machine comprehension of spoken content
 
-Authors: [Bo-Hsiang Tseng](https://sites.google.com/site/bohsiangtseng/) (data collector) & [Yu-An Chung](http://people.csail.mit.edu/andyyuan/) (data releaser)
+Authors: Bo-Hsiang Tseng & [Yu-An Chung](http://people.csail.mit.edu/andyyuan/)
 
 Notes: The dataset was originally collected by [Tseng et al. (2016)](https://arxiv.org/abs/1608.06378), and was later used in [Fang et al. (2016)](https://arxiv.org/abs/1608.07775) and [Chung et al. (2018)](https://arxiv.org/abs/1711.05345). We make the dataset publicly available to encourage more research on this challenging task. If you have any question about this dataset, don't hesitate to shoot me an email at iamyuanchung@gmail.com
 
