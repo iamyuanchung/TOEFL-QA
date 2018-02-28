@@ -2,7 +2,7 @@
 
 Authors: Bo-Hsiang Tseng & [Yu-An Chung](http://people.csail.mit.edu/andyyuan/)
 
-Notes: The dataset was originally collected by [Tseng et al. (2016)](https://arxiv.org/abs/1608.06378), and was later used in [Fang et al. (2016)](https://arxiv.org/abs/1608.07775) and [Chung et al. (2018)](https://arxiv.org/abs/1711.05345). We make the dataset publicly available to encourage more research on this challenging task. If you have any question about this dataset, don't hesitate to shoot me an email at iamyuanchung@gmail.com
+The dataset was originally collected by [Tseng et al. (2016)](https://arxiv.org/abs/1608.06378), and was later used in [Fang et al. (2016)](https://arxiv.org/abs/1608.07775) and [Chung et al. (2018)](https://arxiv.org/abs/1711.05345). We make the dataset publicly available to encourage more research on this challenging task. If you have any question about this dataset, don't hesitate to shoot me an email at iamyuanchung@gmail.com
 
 # Introduction
 Multimedia or spoken content presents more attractive information than plain text content, but it's more difficult to display on a screen and be selected by a user. As a result, accessing large collections of the former is much more difficult and time-consuming than the latter for humans. It's highly attractive to develop a machine which can automatically understand spoken content and summarize the key information for humans to browse over. In this endeavor, we propose a new task of machine comprehension of spoken content. We define the initial goal as the listening comprehension test of [TOEFL](https://en.wikipedia.org/wiki/Test_of_English_as_a_Foreign_Language), a challenging academic English examination for English learners whose native language is not English.
