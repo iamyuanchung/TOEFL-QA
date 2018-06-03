@@ -2,7 +2,7 @@
 
 Authors: Bo-Hsiang Tseng & [Yu-An Chung](https://iamyuanchung.github.io)
 
-The dataset was originally collected by [Tseng et al. (2016)](https://arxiv.org/abs/1608.06378), and was later used in [Fang et al. (2016)](https://arxiv.org/abs/1608.07775) and [Chung et al. (2018)](https://arxiv.org/abs/1711.05345). We make the dataset publicly available to encourage more research on this challenging task. If you have any questions about this dataset, do not hesitate to shoot me an <a href="mailto:iamyuanchung@gmail.com">email</a>.
+The dataset was originally collected by [Tseng et al. (2016)](https://arxiv.org/abs/1608.06378), and later used in [Fang et al. (2016)](https://arxiv.org/abs/1608.07775) and [Chung et al. (2018)](https://arxiv.org/abs/1711.05345). We make the dataset publicly available to encourage more research on this challenging task. If you have any questions about this dataset, do not hesitate to shoot me an <a href="mailto:iamyuanchung@gmail.com">email</a>.
 
 # Introduction
 Multimedia or spoken content presents more attractive information than plain text content, but it's more difficult to display on a screen and be selected by a user. As a result, accessing large collections of the former is much more difficult and time-consuming than the latter for humans. It's highly attractive to develop a machine which can automatically understand spoken content and summarize the key information for humans to browse over. In this endeavor, we propose a new task of machine comprehension of spoken content. We define the initial goal as the listening comprehension test of [TOEFL](https://en.wikipedia.org/wiki/Test_of_English_as_a_Foreign_Language), a challenging academic English examination for English learners whose native language is not English.
@@ -21,8 +21,8 @@ Evaluation metric: Accuracy on the test set
 |:--------------------------------------------------------------:|:------------------:|
 |  [Sukhbaatar et al. (2015)](https://arxiv.org/abs/1503.08895)  |         45.2       |
 |     [Tseng et al. (2016)](https://arxiv.org/abs/1608.06378)    |         42.5       |
-|     [Fang et al. (2016)](https://arxiv.org/abs/1608.07775)     |         49.1       |
-|     [Chung et al. (2018)](https://arxiv.org/abs/1711.05345)    |         56.1       |
+|     [Fang et al. (2016)](https://arxiv.org/abs/1608.07775)     |         49.1[code (Torch)](https://github.com/sunprinceS/Hierarchical-Attention-Model)       |
+|     [Chung et al. (2018)](https://arxiv.org/abs/1711.05345)    |         56.1[code (TensorFlow)](https://github.com/chun5212021202/QACNN)       |
 
 # Citation
 If you use the dataset in your work, please cite the following two papers as:
