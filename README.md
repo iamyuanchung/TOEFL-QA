@@ -21,8 +21,8 @@ Evaluation metric: Accuracy on the test set
 |:--------------------------------------------------------------:|:------------------:|
 |  [Sukhbaatar et al. (2015)](https://arxiv.org/abs/1503.08895)  |         45.2       |
 |     [Tseng et al. (2016)](https://arxiv.org/abs/1608.06378)    |         42.5       |
-|     [Fang et al. (2016)](https://arxiv.org/abs/1608.07775)     |         49.1[code (Torch)](https://github.com/sunprinceS/Hierarchical-Attention-Model)       |
-|     [Chung et al. (2018)](https://arxiv.org/abs/1711.05345)    |         56.1[code (TensorFlow)](https://github.com/chun5212021202/QACNN)       |
+|     [Fang et al. (2016)](https://arxiv.org/abs/1608.07775)     |         49.1 [code](https://github.com/sunprinceS/Hierarchical-Attention-Model)       |
+|     [Chung et al. (2018)](https://arxiv.org/abs/1711.05345)    |         56.1 [code](https://github.com/chun5212021202/QACNN)       |
 
 # Citation
 If you use the dataset in your work, please cite the following two papers as:
